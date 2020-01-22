@@ -1,0 +1,589 @@
+NAME,MSINI,A,PER,ECC,OM,T0,K,ORBREF,ORBURL,FIRSTREF,FIRSTURL
+,mjupiter,au,day,,deg,jd,m/s,,,,
+GJ 625 b,0.0089295,0.0783624,14.628,0.13,343.1,,1.67,Suarez Mascareno 2017,http://adsabs.harvard.edu/abs/2017A%26A...605A..92S,Suarez Mascareno 2017,http://adsabs.harvard.edu/abs/2017A%26A...605A..92S
+HD 116029 b,1.9075,1.64869,670,0,40,2455220,36.6,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 219828 b,0.0622185,0.0515012,3.8334999,0,0,2453898.629,7,Melo 2007,http://adsabs.harvard.edu/abs/2007A%26A...467..721M,Melo 2007,http://adsabs.harvard.edu/abs/2007A%26A...467..721M
+HD 1237 b,3.3748,0.494668,133.71001,0.511,290.7,2451545.86,167,Naef 2001,http://adsabs.harvard.edu/abs/2001A%26A...375..205N,Naef 2001,http://adsabs.harvard.edu/abs/2001A%26A...375..205N
+HD 4308 b,0.0477376,0.119192,15.56,0,359,2453314.7,4.07,Udry 2006,http://adsabs.harvard.edu/abs/2006A%26A...447..361U,Udry 2006,http://adsabs.harvard.edu/abs/2006A%26A...447..361U
+HD 24040 b,4.02189,4.92406,3668,0.04,154,2454308,47.4,Boisse 2012,http://adsabs.harvard.edu/abs/2012A%26A...545A..55B,Wright 2007,http://adsabs.harvard.edu/abs/2007ApJ...657..533W
+HD 59686 A b,6.91979,1.08598,299.36,0.05,121,,136.9,Ortiz 2016,http://adsabs.harvard.edu/abs/2016A%26A...595A..55O,Ortiz 2016,http://adsabs.harvard.edu/abs/2016A%26A...595A..55O
+HD 200964 b,1.94873,1.64347,613.8,0.04,288,2454900,34.5,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J
+HD 147018 b,2.12711,0.238855,44.236,0.4686,335.97,2454459.49,145.33,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S
+HD 218566 b,0.212872,0.687282,225.7,0.3,36,2450360,8.3,Meschiari 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..117M,Meschiari 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..117M
+HD 45364 b,0.187149,0.68156,226.93,0.1684,162.58,2453535.817118141,7.22,Correia 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..521C,Correia 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..521C
+HD 141937 b,9.4752,1.50087,653.21997,0.41,187.72,2451847.38,234.5,Udry 2002,http://adsabs.harvard.edu/abs/2002A%26A...390..267U,Udry 2002,http://adsabs.harvard.edu/abs/2002A%26A...390..267U
+HD 156668 b,0.0130582,0.0499846,4.6455,0,90,2454718.57,1.89,Howard 2011,http://adsabs.harvard.edu/abs/2011ApJ...726...73H,Howard 2011,http://adsabs.harvard.edu/abs/2011ApJ...726...73H
+GJ 649 b,0.325341,1.13179,598.3,0.3,352,2452876,12.4,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..149J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..149J
+HD 132406 b,5.60495,1.98227,974,0.34,214,2453474,115,Da Silva 2007,http://adsabs.harvard.edu/abs/2007A%26A...473..323D,Da Silva 2007,http://adsabs.harvard.edu/abs/2007A%26A...473..323D
+HD 38529 c,12.2603,3.6002,2146.0503,0.355094,17.9023,2452255.921,169.033,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Fischer 2003,http://adsabs.harvard.edu/abs/2003ApJ...586.1394F
+HD 126614 A b,0.385706,2.36847,1244,0.41,243,2453808,7.3,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H
+HD 215152 b,0.00572025,0.0576393,5.75999,0,90,,0.772,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D
+HIP 67537 b,,4.9058,2556.5,0.59,119.6,2456290.6,,Jones 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..58J,Jones 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..58J
+HD 177830 b,1.31967,1.13872,410.1,0.096,189,2450254,32.64,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+HD 42012 b,1.6121,1.66108,857.5,0,90,2455386.2,39,Rey 2017,http://adsabs.harvard.edu/abs/2017A%26A...601A...9R,Rey 2017,http://adsabs.harvard.edu/abs/2017A%26A...601A...9R
+HD 38283 b,0.338157,1.02382,363.2,0.41,219,2450802.6,10,Tinney 2011,http://adsabs.harvard.edu/abs/2011ApJ...732...31T,Tinney 2011,http://adsabs.harvard.edu/abs/2011ApJ...732...31T
+HD 217786 b,13.1868,2.3791,1319,0.4,100,2456053,261,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M
+HD 32518 b,3.34549,0.595162,157.54,0.01,306.11,2452950.29,115.83,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...505.1311D,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...505.1311D
+HD 145934 b,2.28382,4.6069,2730,0.053,215,2451430,22.9,Feng 2015,http://adsabs.harvard.edu/abs/2015ApJ...800...22F,Feng 2015,http://adsabs.harvard.edu/abs/2015ApJ...800...22F
+HD 73267 b,3.06257,2.19849,1260,0.256,229.1,2451821.7,64.29,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M
+HD 147513 b,1.17965,1.30958,528.40002,0.26,282,2451123,29.3,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 72659 b,3.1741,4.75375,3658,0.22,260.7,2455351,41,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+BD +14 4559 b,1.51929,0.775866,268.94,0.29,87.64,2453293.71,55.21,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N
+HD 1605 b,0.96903,1.48605,577.9,0.078,26,2453443.3,19.8,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H
+HD 197037 b,0.807324,2.07477,1035.7,0.22,298,2451353.1,15.5,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R
+HD 70642 b,1.90944,3.18072,2068,0.034,205,2451350,30.4,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Carter 2003,http://adsabs.harvard.edu/abs/2003ApJ...593L..43C
+HD 17674 b,0.875702,1.41961,623.8,0,90,2455904.8,21.1,Rey 2017,http://adsabs.harvard.edu/abs/2017A%26A...601A...9R,Rey 2017,http://adsabs.harvard.edu/abs/2017A%26A...601A...9R
+M 67 YBP 1194 b,0.346328,0.0715732,6.958,0.24,98.62,2455978.8,37.72,Brucalassi 2014,http://adsabs.harvard.edu/abs/2014A%26A...561L...9B,Brucalassi 2014,http://adsabs.harvard.edu/abs/2014A%26A...561L...9B
+HD 40307 c,0.0211468,0.0800702,9.62,0,0,2454551.53,2.47,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..639M,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..639M
+HD 142 b,1.3057,1.04292,350.3,0.26,303,2451963,33.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2002,http://adsabs.harvard.edu/abs/2002ApJ...571..528T
+GJ 328 b,2.3,4.43476,4100,0.37,290,2454500,40,Robertson 2013,http://adsabs.harvard.edu/abs/2013arXiv1307.7640R,Robertson 2013,http://adsabs.harvard.edu/abs/2013arXiv1307.7640R
+HD 67087 b,3.09805,1.08217,352.2,0.17,284.8,2450154.8,73.6,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H
+HD 102329 b,4.47808,1.80892,778.1,0.211,178,2455096,84.8,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+BD -06 1339 c,0.168248,0.436631,125.94,0.31,41,2455265.2,9.1,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L
+HD 159868 b,2.20004,2.29553,1178.4,0.01,350,2453435,38.3,Wittenmyer 2012,http://adsabs.harvard.edu/abs/2012ApJ...753..169W,O'Toole 2007,http://adsabs.harvard.edu/abs/2007ApJ...660.1636O
+HD 114783 b,1.10505,1.15987,493.7,0.144,86,2453806,31.9,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Vogt 2002,http://adsabs.harvard.edu/abs/2002ApJ...568..352V
+GJ 581 e,0.00613456,0.028459,3.14945,0.32,236,2454750.31,1.96,Forveille 2011,http://xxx.lanl.gov/abs/1109.2505,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...507..487M
+epsilon Ret b,1.37669,1.19471,428.1,0.06,216,2450836,32.2,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2001,http://adsabs.harvard.edu/abs/2001ApJ...555..410B
+GJ 674 b,0.034879,0.0386657,4.6938,0.2,143,2453780.085,8.7,Bonfils 2007,http://adsabs.harvard.edu/abs/2007A%26A...474..293B,Bonfils 2007,http://adsabs.harvard.edu/abs/2007A%26A...474..293B
+HD 7924 c,0.0248402,0.113438,15.299,0.098,27,2455583.619,2.31,Fulton 2015,http://adsabs.harvard.edu/abs/2015ApJ...805..175F,Fulton 2015,http://adsabs.harvard.edu/abs/2015ApJ...805..175F
+HD 168443 c,17.3857,2.85281,1749.83,0.2113,64.87,2455599.9,297.7,Pilyavsky 2011 (corrected: priv. comm.),http://adsabs.harvard.edu/abs/2011ApJ...743..162P,Marcy 2001,http://adsabs.harvard.edu/abs/2001ApJ...555..418M
+HD 81040 b,6.87654,1.9372,1001.7,0.526,81.3,2452504,168,Sozzetti 2006,http://adsabs.harvard.edu/abs/2006A%26A...449..417S,Sozzetti 2006,http://adsabs.harvard.edu/abs/2006A%26A...449..417S
+HD 208527 b,10.014,2.099,875.5,0.08,278,2450745.3,155.4,Lee 2013,http://adsabs.harvard.edu/abs/2013A%26A...549A...2L,Lee 2013,http://adsabs.harvard.edu/abs/2013A%26A...549A...2L
+GJ 163 c,0.0215524,0.125354,25.63058,0.099,3.962,2452922.2303,2.75,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A.110B,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A.110B
+HD 95089 b,1.12925,1.38575,507,0.157,317,2454983,23.5,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+HD 114729 b,0.944758,2.10235,1114,0.167,93,2450520,18.8,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+HD 100655 b,1.33352,0.682908,157.57,0.085,132,2453072.4,35.2,Omiya 2012,http://adsabs.harvard.edu/abs/2012PASJ...64...34O,Omiya 2012,http://adsabs.harvard.edu/abs/2012PASJ...64...34O
+HD 141399 c,1.33442,0.689382,201.99,0.048,-140,,44.2,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Vogt 2014,http://adsabs.harvard.edu/abs/2014ApJ...787...97V
+HIP 65891 b,6.00119,2.80589,1084.5,0.13,355.5,2456014.8,64.9,Jones 2015,http://adsabs.harvard.edu/abs/2015A%26A...580A..14J,Jones 2015,http://adsabs.harvard.edu/abs/2015A%26A...580A..14J
+HD 142415 b,1.66194,1.06061,386.29999,0.5,255,2451519,51.3,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 114386 b,1.3637,1.72685,937.70001,0.23,273,2450454,34.3,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 103197 b,0.0982431,0.249018,47.84,0,0,2454826,5.9,Mordasini 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.111M,Mordasini 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.111M
+7 CMa b,2.43233,1.80264,763,0.14,12,2455520,44.9,Wittenmyer 2011,http://adsabs.harvard.edu/abs/2011ApJ...743..184W,Wittenmyer 2011,http://adsabs.harvard.edu/abs/2011ApJ...743..184W
+HD 152581 b,1.51375,1.48938,689,0,321,2455320,36.6,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 13908 c,5.13,2.03386,931,0.12,185,2456165,90.9,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M
+HD 125595 b,0.0416764,0.0809437,9.6737,0,90,2454435.23,4.79,Segransan 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..54S,Segransan 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..54S
+HIP 57274 c,0.410096,0.177758,32.03,0.05,356.2,2455785.208,32.4,Fischer 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...21F,Fischer 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...21F
+HD 93083 b,0.368176,0.476549,143.58,0.14,333.5,2453181.7,18.3,Lovis 2005,http://adsabs.harvard.edu/abs/2005A%26A...437.1121L,Lovis 2005,http://adsabs.harvard.edu/abs/2005A%26A...437.1121L
+HD 31253 b,0.501427,1.26054,466,0.3,244,2450660,12,Meschiari 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..117M,Meschiari 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..117M
+HD 89744 b,8.18778,0.902604,256.78,0.673,195.1,2451505.5,271.6,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Korzennik 2000,http://adsabs.harvard.edu/abs/2000ApJ...533L.147K
+HD 564 b,0.331101,1.20425,492.3,0.096,314,2455433,8.79,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M
+HD 72892 b,4.91277,0.228745,39.475,0.423,344.3,,318.4,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J
+HD 183263 c,3.47646,4.29488,3066,0.23873,344.598,2451970.94,46.32,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W
+HD 192310 c,0.0736073,1.18358,525.8,0.32,110,2455311.915,2.27,Pepe 2011,http://adsabs.harvard.edu/abs/2011A%26A...534A..58P,Pepe 2011,http://adsabs.harvard.edu/abs/2011A%26A...534A..58P
+HD 1690 b,6.52644,1.36191,533,0.64,122,2454449,190,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M
+HD 28185 b,5.79721,1.02341,379,0.05,44,2454230.5,163.5,Minniti 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1424M,Santos 2001,http://adsabs.harvard.edu/abs/2001A%26A...379..999S
+HIP 97233 b,19.8471,2.5395,1058.8,0.61,249.3,2455856.3,320.1,Jones 2014,http://adsabs.harvard.edu/abs/2015A%26A...573A...3J,Jones 2014,http://adsabs.harvard.edu/abs/2015A%26A...573A...3J
+HD 23127 b,1.40487,2.31864,1214,0.44,190,2450229,27.5,O'Toole 2007,http://adsabs.harvard.edu/abs/2007ApJ...660.1636O,O'Toole 2007,http://adsabs.harvard.edu/abs/2007ApJ...660.1636O
+HD 154672 b,4.0077,0.602232,163.967,0.6,265,,176.3,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Lopez-Morales 2008,http://adsabs.harvard.edu/abs/2008AJ....136.1901L
+gamma Leo A b,10.3722,1.29554,428.5,0.144,206.7,2451236,208.3,Han 2010,http://adsabs.harvard.edu/abs/2010A%26A...509A..24H,Han 2010,http://adsabs.harvard.edu/abs/2010A%26A...509A..24H
+HD 11506 b,4.7347,2.60488,1405,0.3,262,2453603,80,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F
+tau Boo b,4.13,0.0480039,3.312433,0.023,90,2455652.108,466.4,Brogi 2012,http://adsabs.harvard.edu/abs/2012Natur.486..502B,Butler 1997,http://adsabs.harvard.edu/abs/1997ApJ...474L.115B
+XO-2S c,1.371,0.47557,120.8,0.1528,264.5,2456408.1,57.68,Desidera 2014,http://adsabs.harvard.edu/abs/2014A%26A...567L...6D,Desidera 2014,http://adsabs.harvard.edu/abs/2014A%26A...567L...6D
+HD 34445 b,0.790506,2.06642,1049,0.27,104,2453781,15.7,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H
+HD 125612 b,3.06805,1.3728,559.40487,0.45899,41.4902,2454894.84807,79.793,Lo Curto 2010 (corrected: priv. comm.),http://adsabs.harvard.edu/abs/2010A%26A...512A..48L,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F
+42 Dra b,3.73203,1.16693,479.1,0.38,218.7,2452757.4,110.5,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...499..935D,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...499..935D
+HIP 109600 b,2.68597,0.706259,232.08,0.163,-131.3,2456017.1,98.6,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+HD 153950 b,2.74209,1.28031,499.4,0.34,308.2,2454502,69.15,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M
+HD 16141 b,0.249652,0.355656,75.523,0.252,42,2450338,11.99,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 2000,http://adsabs.harvard.edu/abs/2000ApJ...536L..43M
+HIP 91258 b,1.068,0.0566534,5.0505,0.024,276,2456164.275,130.9,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M
+HD 204313 d,1.60642,3.94498,2831.6,0.28,247,2446376.9,23.7,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...754...50R,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...754...50R
+HD 50554 b,4.39876,2.26097,1224,0.444,7.4,2450646,91.5,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Fischer 2002,http://adsabs.harvard.edu/abs/2002PASP..114..529F
+HD 11964 c,0.0770689,0.226601,37.910254,0.301733,101.941,2454366.648,4.64578,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Wright 2007,http://adsabs.harvard.edu/abs/2007ApJ...657..533W
+HD 13189 b,7.12332,1.25186,471.6,0.27,160.7,2452327.9,173.3,Hatzes 2005,http://adsabs.harvard.edu/abs/2005A&A...437..743H,Hatzes 2005,http://adsabs.harvard.edu/abs/2005A&A...437..743H
+HD 60532 b,1.0348,0.759258,201.3,0.28,351.9,2453987,29.3,Desort 2008,http://adsabs.harvard.edu/abs/2008A%26A...491..883D,Desort 2008,http://adsabs.harvard.edu/abs/2008A%26A...491..883D
+HD 104067 b,0.185935,0.264333,55.806,0,90,2454043.15,11.56,Segransan 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..54S,Segransan 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..54S
+HD 195019 b,3.57989,0.136688,18.20132,0.0138,231,2451015.5,271.5,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Fischer 1999,http://adsabs.harvard.edu/abs/1999PASP..111...50F
+GJ 832 b,0.684002,3.56153,3657,0.08,246,2451211,15.4,Wittenmyer 2014,http://adsabs.harvard.edu/abs/2014ApJ...791..114W,Bailey 2009,http://adsabs.harvard.edu/abs/2009ApJ...690..743B
+GJ 667 C b,0.0174951,0.0504277,7.1999,0.15,12,2454446.1,3.9,Robertson 2014,http://adsabs.harvard.edu/abs/2014ApJ...793L..24R,Bonfils 2011,http://adsabs.harvard.edu/abs/2013A%26A...549A.109B
+alpha Ari b,1.71662,1.1296,380,0.25,89.16,2451213.52,41.1,Lee 2011,http://adsabs.harvard.edu/abs/2011A%26A...529A.134L,Lee 2011,http://adsabs.harvard.edu/abs/2011A%26A...529A.134L
+YZ Cet c,0.00307976,0.0208968,3.06008,0,-159.8,2456843.19,1.68,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...605L..11A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...605L..11A
+61 Vir b,0.016075,0.05006,4.215,0.12,105,2453367.2224322916,2.12,Vogt 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1366V,Vogt 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1366V
+HD 210702 b,1.86459,1.17218,354.29,0.036,282.3,2454142.6,37.45,Bowler 2010,http://adsabs.harvard.edu/abs/2010ApJ...709..396B,Johnson 2007,http://adsabs.harvard.edu/abs/2007ApJ...665..785J
+HD 220842 b,3.18484,0.740087,218.47,0.404,-134.9,2456624.8,108.1,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+alpha Cen B b,0.00354639,0.0418506,3.2357,0,0,2455280.17,0.51,Dumusque 2012,http://adsabs.harvard.edu/abs/2012Natur.491..207D,Dumusque 2012,http://adsabs.harvard.edu/abs/2012Natur.491..207D
+mu Ara b,1.74552,1.5273,643.25,0.128,22,2452365.6,37.78,Pepe 2007,http://adsabs.harvard.edu/abs/2007A%26A...462..769P,Butler 2001,http://adsabs.harvard.edu/abs/2001ApJ...555..410B
+TYC 1422-614-1 c,10,1.39588,559.3,0.048,130,2453190.5,233,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015A%26A...573A..36N,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015A%26A...573A..36N
+HD 73526 c,2.4209,1.02831,377.8,0.14,13,2451126.0757555556,68,Tinney 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..594T,Tinney 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..594T
+HD 108341 b,3.4773,2.00715,1129,0.85,190,2456261.39,144,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M
+14 Her b,5.21486,2.93362,1773.4,0.369,22.6,2451372.7,90,Wittenmeyer 2007,http://adsabs.harvard.edu/abs/2007ApJ...654..625W,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+HIP 79431 b,2.11299,0.358346,111.7,0.29,287.4,2454980.3,149.5,Apps 2010,http://adsabs.harvard.edu/abs/2010PASP..122..156A,Apps 2010,http://adsabs.harvard.edu/abs/2010PASP..122..156A
+HD 66141 b,6.01,1.24152,480.5,0.07,22.1,2451320.8,146.2,Lee 2012,http://adsabs.harvard.edu/abs/2012A%26A...548A.118L,Lee 2012,http://adsabs.harvard.edu/abs/2012A%26A...548A.118L
+HD 171238 b,2.60901,2.54268,1523,0.4,47,2455062,52.2,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S
+HIP 5158 b,1.42633,0.887919,345.72,0.52,252,2454580.49,57,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L
+GJ 849 b,0.830886,2.35317,1882,0.04,355,2451488,22,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...549A.109B,Butler 2006,http://adsabs.harvard.edu/abs/2006PASP..118.1685B
+GJ 3341 b,0.0208212,0.0892579,14.207,0.31,42.32,2455622.7,3.04,Astudillo-Defru 2015,http://adsabs.harvard.edu/abs/2015A%26A...575A.119A,Astudillo-Defru 2015,http://adsabs.harvard.edu/abs/2015A%26A...575A.119A
+HD 164922 b,0.357927,2.10091,1155,0.05,195,2451100,7.3,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+tau Gru b,1.2147,2.51797,1311,0.07,100,2450870,19.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Jones 2003,http://adsabs.harvard.edu/abs/2003MNRAS.341..948J
+HD 96063 b,1.14167,1.11312,361.1,0,90,2455260,25.9,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+gamma Lib b,1.0212,1.23874,415.2,0.21,187,2450041,22,Takarada 2018,http://adsabs.harvard.edu/abs/2018PASJ..tmp...64T,Takarada 2018,http://adsabs.harvard.edu/abs/2018PASJ..tmp...64T
+HD 5608 b,1.47372,1.98519,792.6,0.19,269,2452327,23.5,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S
+HD 80606 b,3.89024,0.447343,111.4367,0.934,300.6,2454424.857,472,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...498L...5M,Naef 2001,http://adsabs.harvard.edu/abs/2001A%26A...375L..27N
+HD 86264 b,6.62738,2.84117,1475,0.7,306,2455172,132,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F
+HD 176986 c,0.0281354,0.118715,16.8191,0.111,270,2455514.4,2.63,Suarez Mascareno 2018,http://adsabs.harvard.edu/abs/2018A%26A...612A..41S,Suarez Mascareno 2018,http://adsabs.harvard.edu/abs/2018A%26A...612A..41S
+8 UMi b,1.52093,0.490206,93.4,0.06,91,2454108.5,46.1,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L
+HD 82943 c,1.58936,0.742283,219.3,0.425,133,2451851,54.4,Tan 2013,http://adsabs.harvard.edu/abs/2013ApJ...777..101T,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 216536 b,1.48058,0.608531,148.6,0.38,270,2453587,50,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015ApJ...803....1N,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015ApJ...803....1N
+iota Hor b,2.04683,0.92376,302.8,0.14,346,2451227,57.1,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Kurster 2000,http://adsabs.harvard.edu/abs/2000A%26A...353L..33K
+HD 37124 d,0.68665,2.80658,1862,0.16,0,2448558,12.8,Wright 2011,http://adsabs.harvard.edu/abs/2011ApJ...730...93W,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V
+HD 113996 b,6.28868,1.61027,610.2,0.28,92.06,2453309.94,120,Jeong 2018,http://adsabs.harvard.edu/abs/2018A%26A...610A...3J,Jeong 2018,http://adsabs.harvard.edu/abs/2018A%26A...610A...3J
+HD 192263 b,0.639382,0.152945,24.3556,0.055,200,2450994.3,51.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Santos 2000,http://adsabs.harvard.edu/abs/2000A%26A...356..599S
+HD 204313 b,3.50088,3.07131,1920.1,0.23,298,2452111.6,57,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...754...50R,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S
+BD +03 2562 b,6.44514,1.2589,481.9,0.2,218,2453726,155.7,Villaver 2017,http://adsabs.harvard.edu/abs/2017A%26A...606A..38V,Villaver 2017,http://adsabs.harvard.edu/abs/2017A%26A...606A..38V
+HIP 14810 b,3.87441,0.0692271,6.673859,0.142483,159.48,2453988.253,424.329,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...699L..97W,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+HD 90156 b,0.0565295,0.249855,49.77,0.31,113,2454775.1,3.69,Mordasini 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.111M,Mordasini 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.111M
+Pr 211 b,1.84394,0.0320419,2.1451,0,90,2456013.9889,299.9,Quinn 2012,http://adsabs.harvard.edu/abs/2012ApJ...756L..33Q,Quinn 2012,http://adsabs.harvard.edu/abs/2012ApJ...756L..33Q
+GJ 3138 b,0.00576851,0.0196594,1.22002563,0.21239,223.256,2456684.428898318,1.45056,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+24 Sex c,1.51716,2.24032,910,0.412,352,2454941,23.5,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J
+HIP 65407 b,0.430669,0.176696,28.125,0.14,50,2456988.4,30.5,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+HD 60532 c,2.46312,1.57999,604,0.02,151,2453732,46.4,Desort 2008,http://adsabs.harvard.edu/abs/2008A%26A...491..883D,Desort 2008,http://adsabs.harvard.edu/abs/2008A%26A...491..883D
+HIP 65407 c,0.786056,0.316151,67.3,0.12,-19,2457030,41.5,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+HD 68988 b,1.79992,0.0692771,6.27711,0.1249,31.4,2451548.84,184.7,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Vogt 2002,http://adsabs.harvard.edu/abs/2002ApJ...568..352V
+GJ 628 c,0.0108155,0.0889562,17.87199137,0.114217,251.993,2456298.2932987353,1.91398,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 149143 b,1.32811,0.0530508,4.072,0.016,0,2453483.9,149.6,Fischer 2006,http://adsabs.harvard.edu/abs/2006ApJ...637.1094F,Fischer 2006 ; da Silva 2006,http://adsabs.harvard.edu/abs/2006ApJ...637.1094F ; http://adsabs.harvard.edu/abs/2006A%26A...446..717D
+HD 79498 b,1.34632,3.13296,1966.1,0.59,221,2453210.9,26,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R
+GJ 273 d,0.0448185,0.730436,423.3821719,0.717815,175.096,2455953.069687062,3.97639,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 181433 c,0.640416,1.75604,962,0.28,21.4,2453235,16.2,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B
+70 Vir b,7.46144,0.483601,116.6884,0.4007,358.71,2447239.82,316.3,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 1996,http://adsabs.harvard.edu/abs/1996ApJ...464L.147M
+HD 102365 b,0.0509774,0.463328,122.1,0.34,105,2450129,2.4,Tinney 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..103T,Tinney 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..103T
+BD -08 2823 b,0.045941,0.0558236,5.6,0.15,30,2454637.7,6.5,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..46H,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..46H
+HD 47366 b,1.74615,1.21472,363.3,0.089,100,2450122,33.6,Sato 2016,http://adsabs.harvard.edu/abs/2016ApJ...819...59S,Sato 2016,http://adsabs.harvard.edu/abs/2016ApJ...819...59S
+HD 175607 b,0.0262555,0.164916,29.03,0.16,98.9,2455528.01,2.21,Mortier 2016,http://adsabs.harvard.edu/abs/2016A%26A...585A.135M,Mortier 2016,http://adsabs.harvard.edu/abs/2016A%26A...585A.135M
+GJ 436 b,0.0725512,0.0287188,2.64385,0.16,351,2451551.716,18.34,Maness 2007,http://adsabs.harvard.edu/abs/2007PASP..119...90M,Butler 2004,http://adsabs.harvard.edu/abs/2004ApJ...617..580B
+XO-2S b,0.259,0.134393,18.157,0.18,331.9,2456413.11,20.64,Desidera 2014,http://adsabs.harvard.edu/abs/2014A%26A...567L...6D,Desidera 2014,http://adsabs.harvard.edu/abs/2014A%26A...567L...6D
+HD 6718 b,1.5591,3.55427,2496,0.1,286,2454357,24.1,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+HD 33636 b,9.26951,3.26519,2127.7,0.4805,339.5,2451205.8,164.2,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Vogt 2002,http://adsabs.harvard.edu/abs/2002ApJ...568..352V
+V830 Tau b,0.569537,0.056677,4.927,,,2457360.523,68,Donati 2017,http://adsabs.harvard.edu/abs/2017MNRAS.465.3343D,Donati 2017,http://adsabs.harvard.edu/abs/2017MNRAS.465.3343D
+HD 240237 b,5.31949,1.91887,745.7,0.4,108.1,2454292,91.5,Gettel 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...28G,Gettel 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...28G
+rho CrB b,1.06409,0.225692,39.8449,0.057,303,2450563.2,64.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Noyes 1997,http://adsabs.harvard.edu/abs/1997ApJ...483L.111N
+HD 11977 b,7.40012,2.063,711,0.4,351.5,2451420,105,Setiawan 2005,http://adsabs.harvard.edu/abs/2005A%26A...437L..31S,Setiawan 2005,http://adsabs.harvard.edu/abs/2005A%26A...437L..31S
+HD 73534 b,1.06828,3.0184,1770,0.074,12,2456450,16.2,Valenti 2009,http://adsabs.harvard.edu/abs/2009ApJ...702..989V,Valenti 2009,http://adsabs.harvard.edu/abs/2009ApJ...702..989V
+HD 164604 b,2.6885,1.30299,606.4,0.24,51,2452674,77,Arriagada 2010,http://adsabs.harvard.edu/abs/2010ApJ...711.1229A,Arriagada 2010,http://adsabs.harvard.edu/abs/2010ApJ...711.1229A
+HD 215152 d,0.00881646,0.087995,10.86499,0,90,,0.963,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D
+HIP 63242 b,,0.563801,124.6,0.23,118.2,2455376.2,,Jones 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A..78J,Jones 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A..78J
+HD 37124 c,0.648109,1.70993,885.5,0.125,53,2449534,15.4,Wright 2011,http://adsabs.harvard.edu/abs/2011ApJ...730...93W,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+HD 217107 c,2.61546,5.33414,4270,0.517222,198.598,2451106.321,35.7,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V
+HD 74156 b,1.77342,0.291535,51.638,0.63,174,2450793.3,108,Meschiari 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..117M,Naef 2004,http://adsabs.harvard.edu/abs/2004A%26A...414..351N
+HD 103774 b,0.368054,0.070273,5.8881,0.09,318,2455675.4,34.3,Lo Curto 2013,http://arxiv.org/abs/1301.2741,Lo Curto 2013,http://arxiv.org/abs/1301.2741
+HD 13931 b,1.88123,5.14931,4218,0.02,290,2454494,23.3,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H
+K2-18 c,0.0239033,0.0600137,8.962,0,90,2457264.55,4.63,Cloutier 2017,http://adsabs.harvard.edu/abs/2017A%26A...608A..35C,Cloutier 2017,http://adsabs.harvard.edu/abs/2017A%26A...608A..35C
+HD 155358 c,0.807031,1.00082,391.9,0.16,180,2455345.4,24.9,Robert 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R,Cochran 2007,http://adsabs.harvard.edu/abs/2007ApJ...665.1407C
+14 And b,4.68383,0.823151,185.84,0,0,2452861.4,100,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60.1317S,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60.1317S
+GJ 3138 c,0.0130611,0.056688,5.97377468,0.121224,242.944,2456682.2048453833,1.90406,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+GJ 3998 c,0.0197987,0.08911,13.74,0.049,,,2.67,Affer 2016,http://adsabs.harvard.edu/abs/2016A%26A...593A.117A,Affer 2016,http://adsabs.harvard.edu/abs/2016A%26A...593A.117A
+81 Cet b,4.31096,2.28088,952.7,0.206,175,2452486,62.8,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60.1317S,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60.1317S
+HD 32963 b,0.7,3.5161,2372,0.07,107,2450532,11.1,Rowan 2016,http://adsabs.harvard.edu/abs/2016ApJ...817..104R,Rowan 2016,http://adsabs.harvard.edu/abs/2016ApJ...817..104R
+mu Ara e,0.543322,0.93961,310.54999,0.0666,189.6,2452708.7,14.91,Pepe 2007,http://adsabs.harvard.edu/abs/2007A%26A...462..769P,Pepe 2007 ; Gozdiewski 2007,http://adsabs.harvard.edu/abs/2007A%26A...462..769P ; http://adsabs.harvard.edu/abs/2007ApJ...657..546G
+HD 136118 b,11.6809,2.33328,1187.3,0.338,319.9,2452999.5,210.7,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Fischer 2002,http://adsabs.harvard.edu/abs/2002PASP..114..529F
+HD 6434 b,0.397195,0.142061,21.997999,0.17,156,2451490.8,34.2,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 5319 b,1.76545,1.6698,641,0.02,97,2456288,31.6,Robinson 2007,http://adsabs.harvard.edu/abs/2007ApJ...670.1391R,Robinson 2007,http://adsabs.harvard.edu/abs/2007ApJ...670.1391R
+HD 231701 b,1.08667,0.555583,141.60001,0.1,46,2453180,39,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F
+HD 75898 b,2.51504,1.18906,418.20001,0.1,263.7,2452907,58.2,Robinson 2007,http://adsabs.harvard.edu/abs/2007ApJ...670.1391R,Robinson 2007,http://adsabs.harvard.edu/abs/2007ApJ...670.1391R
+HD 164595 b,0.0507844,0.228139,40,0.088,145,2456280,3.05,Courcol 2015,http://adsabs.harvard.edu/abs/2015A%26A...581A..38C,Courcol 2015,http://adsabs.harvard.edu/abs/2015A%26A...581A..38C
+16 Cyg B b,1.63997,1.66027,798.5,0.681,85.8,2446549.1,50.5,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Cochran 1997,http://adsabs.harvard.edu/abs/1997ApJ...483..457C
+HD 213240 b,4.53249,1.88529,882.7,0.421,201,2451499,96.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Santos 2001,http://adsabs.harvard.edu/abs/2001A%26A...379..999S
+HD 221585 b,1.61483,2.30768,1173,0.123,-6.8,2455050,27.9,Diaz 2016,http://adsabs.harvard.edu/abs/2016A%26A...591A.146D,Diaz 2016,http://adsabs.harvard.edu/abs/2016A%26A...591A.146D
+HD 33844 b,1.96,1.59543,551.4,0.15,211,2454609,33.5,Wittenmyer 2016,http://adsabs.harvard.edu/abs/2016ApJ...818...35W,Wittenmyer 2016,http://adsabs.harvard.edu/abs/2016ApJ...818...35W
+HD 12661 b,2.3408,0.838172,262.70861,0.376834,295.978,2454152.755,73.5609,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Fischer 2001,http://adsabs.harvard.edu/abs/2001ApJ...551.1107F
+HD 74156 c,8.24664,3.8997,2520,0.38,268,2448416,115,Meschiari 2011,http://adsabs.harvard.edu/abs/2011ApJ...727..117M,Naef 2004,http://adsabs.harvard.edu/abs/2004A%26A...414..351N
+HD 38801 b,10.0105,1.6471,696.3,0,0,2453966,200,Harakawa 2010,http://adsabs.harvard.edu/abs/2010ApJ...715..550H,Harakawa 2010,http://adsabs.harvard.edu/abs/2010ApJ...715..550H
+HD 132563 B b,1.49247,2.62431,1544,0.22,158,2452593,26.7,Desidera 2011,http://adsabs.harvard.edu/abs/2011A%26A...533A..90D,Desidera 2011,http://adsabs.harvard.edu/abs/2011A%26A...533A..90D
+HD 219134 d,0.0509923,0.237122,46.859,0.138,173,,3.34,Gillon 2017,http://adsabs.harvard.edu/abs/2017NatAs...1E..56G,Motalebi 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..72M
+GJ 1132 c,0.00839448,0.0476476,8.929,0,90,,2.57,Bonfils 2018,http://adsabs.harvard.edu/abs/2018arXiv180603870B,Bonfils 2018,http://adsabs.harvard.edu/abs/2018arXiv180603870B
+HD 147873 b,5.01069,0.520622,116.596,0.207,80.2,,171.5,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J
+GJ 667 C c,0.0130687,0.125003,28.1,0.27,140,2454462,1.9,Robertson 2014,http://arxiv.org/abs/1409.0021,Bonfils 2011,http://arxiv.org/abs/1111.5019
+HD 207832 c,0.730294,2.1118,1155.7,0.27,121.6,2452510.8151989,15.3,Haghighipour 2012,http://adsabs.harvard.edu/abs/2012ApJ...756...91H,Haghighipour 2012,http://adsabs.harvard.edu/abs/2012ApJ...756...91H
+HD 5891 b,5.22845,0.636168,177.11,0.066,351,2455432,178.5,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 173416 b,2.71808,1.16272,323.6,0.21,254,2453465.8,51.8,Liu 2009,http://adsabs.harvard.edu/abs/2009RAA.....9....1L,Liu 2009,http://adsabs.harvard.edu/abs/2009RAA.....9....1L
+HD 76700 b,0.232142,0.0511051,3.97097,0.095,30,2451213.32,27.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2003,http://adsabs.harvard.edu/abs/2003ApJ...587..423T
+HD 39091 b,10.088,3.34651,2151,0.6405,330.24,2447820,196.4,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Jones 2002,http://adsabs.harvard.edu/abs/2002MNRAS.333..871J
+HD 7449 b,1.3131,2.33982,1275,0.82,339,2455298,41.59,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D
+HD 149026 b,0.359837,0.0431325,2.8758911,0,90,2453317.838,43.3,Carter 2009,http://adsabs.harvard.edu/abs/2009ApJ...696..241C,Sato 2005,http://adsabs.harvard.edu/abs/2005ApJ...633..465S
+HD 30669 b,0.468584,2.69464,1684,0.18,82,2457181,8.6,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M
+HD 216437 b,2.16817,2.48556,1353,0.319,67.7,2450605,39,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Jones 2002,http://adsabs.harvard.edu/abs/2002MNRAS.337.1170J
+HD 12484 b,2.98416,0.297295,58.83,0.07,-35,2456699,155,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+HD 49674 b,0.101571,0.0571073,4.94737,0.087,264,2451882.38,12.04,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+HD 82943 b,1.58935,1.1851,442.4,0.203,107,2451597.7,39.8,Tan 2013,http://adsabs.harvard.edu/abs/2013ApJ...777..101T,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 77338 b,0.0498139,0.0612143,5.7361,0.09,223.454,2453355.6,5.96,Jenkins 2013,http://adsabs.harvard.edu/abs/2013ApJ...766...67J,Jenkins 2013,http://adsabs.harvard.edu/abs/2013ApJ...766...67J
+HD 220773 b,1.44975,4.94302,3724.7,0.51,259,2453866.4,20,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R
+HD 7924 d,0.0203801,0.155066,24.451,0.21,119,2455573.511,1.65,Fulton 2015,http://adsabs.harvard.edu/abs/2015ApJ...805..175F,Fulton 2015,http://adsabs.harvard.edu/abs/2015ApJ...805..175F
+HD 159868 c,0.73,1.02595,352.3,0.15,290,2453239,20.1,Wittenmyer 2012,http://adsabs.harvard.edu/abs/2012ApJ...753..169W,Wittenmyer 2012,http://adsabs.harvard.edu/abs/2012ApJ...753..169W
+HD 137388 b,0.227816,0.88883,330,0.36,86,2455209,7.94,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D
+GJ 536 b,0.0169649,0.0666108,8.7076,0.08,288.7,,2.6,Suarez Mascareno 2017,http://adsabs.harvard.edu/abs/2017A%26A...597A.108S,Suarez Mascareno 2017,http://adsabs.harvard.edu/abs/2017A%26A...597A.108S
+HD 100777 b,1.16502,1.03378,383.70001,0.36,202.7,2453456.2,34.9,Naef 2007,http://adsabs.harvard.edu/abs/2007A%26A...470..721N,Naef 2007,http://adsabs.harvard.edu/abs/2007A%26A...470..721N
+HD 222582 b,7.63003,1.33658,572.38,0.725,319.01,2450706.7,276.3,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+GJ 273 e,0.0285413,1.02111,699.81424883,0.623344,332.835,2455925.0249283034,1.90699,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 128311 b,1.4572,1.08649,454.2,0.345,63,2453835,46.5,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+HD 181433 d,0.535482,3.02208,2172,0.48,330,2452154,11.3,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B
+HD 4208 b,0.807457,1.65355,828,0.052,345,2451040,19.06,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Vogt 2002,http://adsabs.harvard.edu/abs/2002ApJ...568..352V
+HD 5388 b,1.96509,1.76349,777,0.4,324,2454570,41.7,Santos 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..47S,Santos 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..47S
+11 UMi b,11.0873,1.53498,516.22,0.08,117.63,2452861.04,189.7,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...505.1311D,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...505.1311D
+HD 76920 b,3.94504,1.14933,415.4,0.856,352.9,,186.8,Wittenmeyer 2017,http://adsabs.harvard.edu/abs/2017AJ....154..274W,Wittenmeyer 2017,http://adsabs.harvard.edu/abs/2017AJ....154..274W
+HD 4732 c,2.36493,4.60219,2732,0.23,118,2456093,24.4,Sato 2013,http://adsabs.harvard.edu/abs/2013ApJ...762....9S,Sato 2013,http://adsabs.harvard.edu/abs/2013ApJ...762....9S
+kappa CrB b,1.9747,2.71619,1300,0.125,83.1,2453899,27.3,Bonsor 2013,http://adsabs.harvard.edu/abs/2013MNRAS.431.3025B,Johnson 2008,http://adsabs.harvard.edu/abs/2008ApJ...675..784J
+HD 99492 b,0.106179,0.121908,17.0431,0.254,219,2450468.7,9.8,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 2005,http://adsabs.harvard.edu/abs/2005ApJ...619..570M
+HD 204941 b,0.26689,2.55427,1733,0.37,228,2456015,5.94,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D
+HD 42618 b,,0.554288,149.61,0.19,101,,,Fulton 2016,http://adsabs.harvard.edu/abs/2016ApJ...830...46F,Fulton 2016,http://adsabs.harvard.edu/abs/2016ApJ...830...46F
+HD 196050 b,2.8434,2.51056,1378,0.228,187,2450843,49.7,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Jones 2002,http://adsabs.harvard.edu/abs/2002MNRAS.337.1170J
+HD 111232 b,6.84182,1.97489,1143,0.2,98,2451230,159.3,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 117618 b,0.176652,0.174852,25.827,0.42,254,2450832.2,12.8,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2005,http://adsabs.harvard.edu/abs/2005ApJ...623.1171T
+HD 180902 b,1.56395,1.38103,479,0.09,300,2454858.2914,30.7,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+HIP 12961 b,0.354314,0.25497,57.435,0.166,272,2454428.4,24.71,Forveille 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.141F,Forveille 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.141F
+HD 63454 b,0.384566,0.0362523,2.818049,0,87.3,2455583.24,64.19,Kane 2011,http://adsabs.harvard.edu/abs/2011ApJ...737...58K,Moutou 2005,http://adsabs.harvard.edu/abs/2005A%26A...439..367M
+BD +48 738 b,1.2654,1.11234,392.6,0.2,358.9,2454457.2,31.9,Gettel 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...28G,Gettel 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...28G
+NGC 2423 3 b,6.63106,1.6555,714.3,0.21,18,2453213,137.6,Lovis 2007,http://adsabs.harvard.edu/abs/2007A&A...472..657L,Lovis 2007,http://adsabs.harvard.edu/abs/2007A&A...472..657L
+HD 238914 b,,5.70035,4100,0.56,318,2460540,,Adamow 2018,http://adsabs.harvard.edu/abs/2018A%26A...613A..47A,Adamow 2018,http://adsabs.harvard.edu/abs/2018A%26A...613A..47A
+HD 13908 b,0.865,0.153755,19.382,0.046,185,2455750.93,55.3,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M
+HD 50499 b,1.74473,3.87172,2457.8717,0.253675,258.799,2451220.052,23.0219,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V
+tau Gem b,20.3246,1.17509,305.5,0.031,137.4,2453270.7,350.2,Mitchell 2013,http://adsabs.harvard.edu/abs/2013A%26A...555A..87M,Mitchell 2013,http://adsabs.harvard.edu/abs/2013A%26A...555A..87M
+HD 154857 c,2.57917,5.35635,3452,0.06,352,2455219,24.2,Wittenmyer 2014,http://adsabs.harvard.edu/abs/2014arXiv1401.5525W,O'Toole 2007,http://adsabs.harvard.edu/abs/2007ApJ...660.1636O
+GJ 163 b,0.033876,0.0606753,8.631,0.11,97,2455042.253,6.22,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A.110B,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A.110B
+HD 2039 b,5.92499,2.19755,1120,0.715,344.1,2452041,153,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2003,http://adsabs.harvard.edu/abs/2003ApJ...587..423T
+HD 34445 d,0.0961265,0.481226,117.87,0.027,250,,3.81,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V
+HD 191806 b,8.57451,2.81079,1606.3,0.259,4,2455014,140.5,Diaz 2016,http://adsabs.harvard.edu/abs/2016A%26A...591A.146D,Diaz 2016,http://adsabs.harvard.edu/abs/2016A%26A...591A.146D
+HD 187085 b,0.803694,2.02754,986,0.47,94,2450912,17,Jones 2006,http://adsabs.harvard.edu/abs/2006MNRAS.369..249J,Jones 2006,http://adsabs.harvard.edu/abs/2006MNRAS.369..249J
+HD 118203 b,2.13623,0.0702997,6.1335,0.309,155.7,2453394.23,217,Da Silva 2006,http://adsabs.harvard.edu/abs/2006A%26A...446..717D,Da Silva 2006,http://adsabs.harvard.edu/abs/2006A%26A...446..717D
+HD 103720 b,0.62047,0.0498148,4.5557,0.086,262,2455387.46,89,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M
+HD 224538 b,6.02254,2.42516,1189.1,0.464,23,,107,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J
+HD 175167 b,7.77836,2.40085,1290,0.54,342,2453598,161,Arriagada 2010,http://adsabs.harvard.edu/abs/2010ApJ...711.1229A,Arriagada 2010,http://adsabs.harvard.edu/abs/2010ApJ...711.1229A
+NGC 4349 127 b,9.88561,1.68103,677.8,0.19,61,2454114,188,Lovis 2007,http://adsabs.harvard.edu/abs/2007A&A...472..657L,Lovis 2007,http://adsabs.harvard.edu/abs/2007A&A...472..657L
+GJ 676 A b,4.43286,1.80757,1050.3,0.328,85.7,2455411.9,117.42,Forveille 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.141F,Forveille 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.141F
+HIP 109384 b,1.56499,1.13482,499.48,0.549,104.49,2456337.02,56.53,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+HD 47186 c,0.348285,2.38704,1353.6,0.249,26,2452010,6.65,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B
+HIP 14810 d,0.5806,1.88623,950.69651,0.165251,296.832,2454345.169,12.2451,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...699L..97W,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...699L..97W
+HD 142245 b,1.89038,2.77628,1299,0,234,2454760,24.8,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 30177 b,9.68782,3.80821,2770,0.193,34,2451437,146.8,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2003,http://adsabs.harvard.edu/abs/2003ApJ...587..423T
+bet Cnc b,7.8,1.67364,605.2,0.08,58.9,2453229.8,133,Lee 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A..67L,Lee 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A..67L
+HD 190647 b,1.90296,2.07238,1038.1,0.18,232.5,2453868,36.4,Naef 2007,http://adsabs.harvard.edu/abs/2007A%26A...470..721N,Naef 2007,http://adsabs.harvard.edu/abs/2007A%26A...470..721N
+HD 97658 b,0.024749,0.0796373,9.4909,0.064,351,2456361.8051,2.9,Dragomir 2013,http://adsabs.harvard.edu/abs/2013arXiv1305.7260D,Howard 2011,http://adsabs.harvard.edu/abs/2011ApJ...730...10H
+HD 106270 b,11.0869,4.37827,2890,0.402,15.4,2454830,142.1,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 30856 b,1.85721,2.04004,912,0.117,180,2455260,31.9,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 24064 b,9.45161,1.29459,535.6,0.35,250.8,2455278.3,251,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L
+HD 48265 b,1.47557,1.80168,780.3,0.08,340,,27.7,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Minniti 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1424M
+HD 34445 c,0.16788,0.71769,214.67,0.036,150,,5.45,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V
+HD 89307 b,1.79148,3.26609,2166,0.2,4.9,2452346.4,28.9,Fischer 2009 (corrected: priv. comm.),http://adsabs.harvard.edu/abs/2009ApJ...703.1545F,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F
+HD 163607 c,2.2924,2.41789,1314,0.12,265,2455085,40.4,Giguere 2012,http://adsabs.harvard.edu/abs/2012ApJ...744....4G,Giguere 2012,http://adsabs.harvard.edu/abs/2012ApJ...744....4G
+HD 4313 b,2.17173,1.13327,356,0.041,85.59,2454804,46.9,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+HD 2638 b,0.477325,0.0435743,3.4442,0,0,2453323.206,67.4,Moutou 2005,http://adsabs.harvard.edu/abs/2005A%26A...439..367M,Moutou 2005,http://adsabs.harvard.edu/abs/2005A%26A...439..367M
+HD 168443 b,7.69745,0.29385,58.11247,0.52883,172.923,2455626.199,475.133,Pilyavsky 2011 (corrected: priv. comm.),http://adsabs.harvard.edu/abs/2011ApJ...743..162P,Marcy 1999,http://adsabs.harvard.edu/abs/1999ApJ...520..239M
+HD 10180 f,0.0743252,0.49279,122.72,0.133,265,2454027.5528,2.95,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L
+HD 45350 b,1.83614,1.94413,963.6,0.778,343.4,2451825.3,58,Endl 2006,http://adsabs.harvard.edu/abs/2006AJ....131.3131E,Marcy 2005,http://adsabs.harvard.edu/abs/2005ApJ...619..570M
+HD 69830 c,0.0367709,0.185072,31.559999,0.13,221,2453469.6,2.66,Lovis 2006,http://adsabs.harvard.edu/abs/2006Natur.441..305L,Lovis 2006,http://adsabs.harvard.edu/abs/2006Natur.441..305L
+TYC 1422-614-1 b,2.5,0.697981,198.4,0.06,50,2453236.5,82,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015A%26A...573A..36N,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015A%26A...573A..36N
+HD 47186 b,0.071203,0.0498411,4.0845,0.038,59,2454566.95,9.12,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B
+HD 148427 b,1.14357,1.03886,331.5,0.16,277,2453991,27.7,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F
+epsilon Tau b,7.67663,1.93647,594.90002,0.151,94.4,2452879,95.9,Sato 2007,http://adsabs.harvard.edu/abs/2007ApJ...661..527S,Sato 2007,http://adsabs.harvard.edu/abs/2007ApJ...661..527S
+HD 208487 b,0.5122,0.520765,130.08,0.24,113,2450999,19.7,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2005,http://adsabs.harvard.edu/abs/2005ApJ...623.1171T
+epsilon Eri b,1.05448,3.37558,2500,0.25,6,2448940,18.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Hatzes 2000,http://adsabs.harvard.edu/abs/2000ApJ...544L.145H
+HD 20782 b,1.9,1.36607,591.9,0.97,147.7,2451083.8,185.3,O'Toole 2009,http://adsabs.harvard.edu/abs/2009MNRAS.392..641O,Jones 2006,http://adsabs.harvard.edu/abs/2006MNRAS.369..249J
+HD 190360 c,0.0589738,0.129216,17.111027,0.23747,5.18038,2454389.63,4.84311,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V
+HD 128356 b,0.748401,0.756964,298.2,0.57,84.2,,36.9,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J
+HD 141399 d,1.18891,2.09454,1069.8,0.074,-140,,22.63,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Vogt 2014,http://adsabs.harvard.edu/abs/2014ApJ...787...97V
+HD 65216 b,1.21636,1.37427,613.09998,0.41,198,2450762,33.7,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+GJ 3634 b,0.0221881,0.0286881,2.64561,0.08,84,2455390.417,5.57,Bonfils 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.111B,Bonfils 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.111B
+HD 130322 b,1.04309,0.0896052,10.7085,0.011,145,2453995,108.3,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Udry 2000,http://adsabs.harvard.edu/abs/2000A%26A...356..590U
+omega Ser b,1.70083,1.07698,277.02,0.106,132,2450022,31.8,Sato 2013,http://arxiv.org/abs/1304.4328,Sato 2013,http://arxiv.org/abs/1304.4328
+HD 34445 f,0.123778,1.54309,676.8,0.031,210,,2.74,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V
+HD 16175 b,4.65551,2.12634,995.4,0.637,221.5,2455801.4,103.5,Diaz 2016,http://adsabs.harvard.edu/abs/2016A%26A...591A.146D,Peek 2009,http://adsabs.harvard.edu/abs/2009PASP..121..613P
+HD 46375 b,0.227201,0.0399038,3.023573,0.063,114,2451071.53,33.65,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 2000,http://adsabs.harvard.edu/abs/2000ApJ...536L..43M
+HD 98219 b,2.12353,1.32398,436.9,0,47,2455140,41.2,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 12648 b,2.89937,0.543924,133.6,0.04,99.3,2452324.7,102,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L
+HD 11964 b,0.608106,3.1288,1944.5898,0.041,154.961,2454170.722,9.41101,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+mu Leo b,2.4,1.12966,357.8,0.09,227.1,2452921,52,Lee 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A..67L,Lee 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A..67L
+HD 139357 b,10.0754,2.34618,1125.7,0.1,235.4,2452466.7,161.2,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...499..935D,Dollinger 2009,http://adsabs.harvard.edu/abs/2009A%26A...499..935D
+HD 1461 b,0.0240044,0.0635202,5.7727,0.14,58,2450366.519,2.7,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1492R,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1492R
+HD 8535 b,0.682196,2.4447,1313,0.15,61,2454537,11.8,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+HD 3167 d,,0.0777496,8.509,0,90,,,Christiansen 2017,http://adsabs.harvard.edu/abs/2017AJ....154..122C,Christiansen 2017,http://adsabs.harvard.edu/abs/2017AJ....154..122C
+HD 4203 b,2.08215,1.16537,431.88,0.519,329.1,2451918.9,60.3,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Vogt 2002,http://adsabs.harvard.edu/abs/2002ApJ...568..352V
+HD 102956 b,0.951497,0.0810025,6.4948,0.048,12,2455352.26,73.4,Johnson 2010,http://adsabs.harvard.edu/abs/2010ApJ...721L.153J,Johnson 2010,http://adsabs.harvard.edu/abs/2010ApJ...721L.153J
+GJ 176 b,0.0259969,0.0656822,8.7832,0,0,2454399.79,4.12,Forveille 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..645F,Forveille 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..645F
+HD 23079 b,2.4433,1.59509,730.6,0.102,55,2450492,54.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2002,http://adsabs.harvard.edu/abs/2002ApJ...571..528T
+HD 178911 B b,7.29127,0.344904,71.484,0.114,168.2,2453808.1,343.3,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Zucker 2002,http://adsabs.harvard.edu/abs/2002ApJ...568..363Z
+HD 162020 b,15.2138,0.0756944,8.428198,0.277,28.4,2451990.677,1813,Udry 2002,http://adsabs.harvard.edu/abs/2002A%26A...390..267U,Udry 2002,http://adsabs.harvard.edu/abs/2002A%26A...390..267U
+HD 168746 b,0.245103,0.0655505,6.404,0.107,17,2451757.83,28.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Pepe 2002,http://adsabs.harvard.edu/abs/2002A%26A...388..632P
+GJ 876 c,0.612168,0.129574,30.0881,0.25591,48.76,2450577.5,88.34,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...719..890R,Marcy 2001,http://adsabs.harvard.edu/abs/2001ApJ...556..296M
+HD 215497 b,0.020855,0.0465952,3.93404,0.16,96,2454858.95,2.98,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L
+HD 154345 b,0.956901,4.21377,3341.5588,0.044,68.1543,2452831.223,14.0318,Wright 2008,http://adsabs.harvard.edu/abs/2008ApJ...683L..63W,Wright 2007,http://adsabs.harvard.edu/abs/2007ApJ...657..533W
+BD -06 1339 b,0.0268039,0.0428543,3.8728,0,90,2455220.5,4.4,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L
+HD 217107 b,1.40112,0.0750282,7.1268163,0.126686,24.3621,2454395.787,139.204,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Fischer 1999,http://adsabs.harvard.edu/abs/1999PASP..111...50F
+mu Ara c,1.88907,5.34057,4205.8,0.0985,57.6,2452955.2,21.79,Pepe 2007,http://adsabs.harvard.edu/abs/2007A%26A...462..769P,McCarthy 2004,http://adsabs.harvard.edu/abs/2004ApJ...617..575M
+HD 7199 b,0.295018,1.36155,615,0.19,155,2455030,7.76,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D,Dumusque 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..55D
+GJ 433 b,0.0181986,0.0580371,7.3709,0.08,204,2494287,3.11,Delfosse 2013,http://adsabs.harvard.edu/abs/2013A%26A...553A...8D,Delfosse 2013,http://adsabs.harvard.edu/abs/2013A%26A...553A...8D
+HD 159243 b,1.13,0.110366,12.62,0.02,223,2456426.11,91.1,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M
+HD 285507 b,0.917,0.0588842,6.0881,0.086,182,2456263.121,125.8,Quinn 2014,http://adsabs.harvard.edu/abs/2014ApJ...787...27Q,Quinn 2014,http://adsabs.harvard.edu/abs/2014ApJ...787...27Q
+HD 40307 d,0.028076,0.132422,20.46,0,0,2454532.42,2.55,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..639M,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..639M
+HD 290327 b,2.54762,3.43052,2443,0.08,268,2455326,41.3,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+GJ 876 e,0.039229,0.333345,124.26,0.055,239,2450519.598,3.42,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...719..890R,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...719..890R
+HD 169830 c,4.06407,3.60184,2102,0.33,252,2452516,54.3,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+GJ 3998 b,0.00780644,0.0297443,2.64977,0,90,,1.82,Affer 2016,http://adsabs.harvard.edu/abs/2016A%26A...593A.117A,Affer 2016,http://adsabs.harvard.edu/abs/2016A%26A...593A.117A
+47 UMa c,0.545774,3.57197,2391,0.098,295,2452441,8,Gregory 2010,http://adsabs.harvard.edu/abs/2010MNRAS.403..731G,Fischer 2002,http://adsabs.harvard.edu/abs/2002ApJ...564.1028F
+HD 133131 A b,1.42058,1.44284,649,0.33,16,2452327,36.52,Teske 2016,http://adsabs.harvard.edu/abs/2016AJ....152..167T,Teske 2016,http://adsabs.harvard.edu/abs/2016AJ....152..167T
+HD 63765 b,0.643827,0.94038,358,0.24,122,2454404,20.9,Segransan 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..54S,Segransan 2011,http://adsabs.harvard.edu/abs/2011A%26A...535A..54S
+HD 233604 b,6.62362,0.746644,192,0.05,281,2453022,177.8,Nowak 2013,http://adsabs.harvard.edu/abs/2013ApJ...770...53N,Nowak 2013,http://adsabs.harvard.edu/abs/2013ApJ...770...53N
+HD 85390 b,0.131884,1.52377,788,0.41,266,2454464.2,3.82,Mordasini 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.111M,Mordasini 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.111M
+HD 219077 b,10.4511,6.21822,5501,0.77,57.61,2450455.8,181.4,Marmier 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..90M,Marmier 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..90M
+55 Cnc e,0.0261924,0.0154393,0.736546,0,90,2455568.011,6.3,Endl 2012,http://adsabs.harvard.edu/abs/2012ApJ...759...19E,McArthur 2004,http://adsabs.harvard.edu/abs/2004ApJ...614L..81M
+HIP 57274 d,0.528573,1.00678,431.7,0.27,187.2,2455108.116,18.2,Fischer 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...21F,Fischer 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...21F
+HD 221287 b,3.11535,1.25015,456.10001,0.08,98,2453263,71,Naef 2007,http://adsabs.harvard.edu/abs/2007A%26A...470..721N,Naef 2007,http://adsabs.harvard.edu/abs/2007A%26A...470..721N
+HD 192699 b,2.29191,1.12292,345.53,0.129,41.3,2454036.6,49.3,Bowler 2010,http://adsabs.harvard.edu/abs/2010ApJ...709..396B,Johnson 2007,http://adsabs.harvard.edu/abs/2007ApJ...665..785J
+HD 181342 b,3.14944,1.777,663,0.177,281,2454881,52.3,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+HD 131496 b,2.24115,2.1121,883,0.163,22,2456040,35,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 44219 b,0.589265,1.18713,472.3,0.61,147.4,2454585.6,19.4,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+75 Cet b,2.7597,1.97678,691.9,0.117,165,2452213,38.3,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S
+HD 220074 b,11.1883,1.60044,672.1,0.14,323,2451158.2,230.8,Lee 2013,http://adsabs.harvard.edu/abs/2013A%26A...549A...2L,Lee 2013,http://adsabs.harvard.edu/abs/2013A%26A...549A...2L
+HIP 2247 b,5.12319,1.33884,655.6,0.54,112.2,2454627.1,173.3,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M
+GJ 876 d,0.0184193,0.0208066,1.93778,0.207,234,2450600.2,6.56,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...719..890R,Rivera 2005,http://adsabs.harvard.edu/abs/2005ApJ...634..625R
+HD 38529 b,0.803263,0.1272,14.310195,0.243663,95.3538,2454384.815,57.0213,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Fischer 2001,http://adsabs.harvard.edu/abs/2001ApJ...551.1107F
+Proxima b,0.00369455,0.0482823,11.186,0,310,2451640.946,1.38,Anglada-Escude 2016,http://adsabs.harvard.edu/abs/2016Natur.536..437A,Anglada-Escude 2016,http://adsabs.harvard.edu/abs/2016Natur.536..437A
+BD +20 2457 c,6.90191,1.45701,621.99,0.18,126.02,2453866.95,160.03,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N
+HD 22781 b,13.8403,1.16847,528.07,0.8191,315.92,2454881.4,726.4,Diaz 2012,http://adsabs.harvard.edu/abs/2012A%26A...538A.113D,Diaz 2011,http://adsabs.harvard.edu/abs/2011EPJWC..1102006D
+HD 120084 b,4.4772,4.26892,2082,0.66,117,2450774,53,Sato 2013,http://adsabs.harvard.edu/abs/2013arXiv1304.4328S,Sato 2013,http://adsabs.harvard.edu/abs/2013arXiv1304.4328S
+HD 95127 b,5.0362,1.2802,482,0.11,40,2453200,116,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015ApJ...803....1N,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015ApJ...803....1N
+HD 20868 b,2.00901,0.947319,380.85,0.75,356.2,2454451.52,100.34,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M
+HIP 107773 b,1.97931,0.723051,144.3,0.09,166,2456202.3,42.7,Jones 2015,http://adsabs.harvard.edu/abs/2015A%26A...580A..14J,Jones 2015,http://adsabs.harvard.edu/abs/2015A%26A...580A..14J
+HD 215152 c,0.0054082,0.0673941,7.28243,0,90,,0.675,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D
+HD 107148 b,0.212171,0.270013,48.056,0.05,75,2439969,10.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+HD 1666 b,6.47072,0.937147,270,0.63,293.9,2453526.3,199.4,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H
+HD 95872 b,4.59415,5.15426,4375,0.06,32.9,2449869,59,Endl 2016,http://adsabs.harvard.edu/abs/2016ApJ...818...34E,Endl 2016,http:/adsabs.harvard.edu/abs/2016ApJ...818...34E
+51 Peg b,0.461143,0.0521068,4.230785,0.013,58,2450001.51,55.94,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Mayor 1995,http://adsabs.harvard.edu/abs/1995Natur.378..355M
+HD 5319 c,1.15,2.0717,886,0.15,252,2453453,18.8,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G
+55 Cnc f,0.172877,0.773567,261.2,0.32,139,2450080.9108,6.2,Endl 2012,http://adsabs.harvard.edu/abs/2012ApJ...759...19E,Fischer 2008,http://adsabs.harvard.edu/abs/2008ApJ...675..790F
+GJ 628 b,0.00608135,0.0374757,4.88693327,0.153026,270.438,2456309.022710563,1.66687,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HIP 67851 b,1.41789,0.458562,88.8,0.09,87.7,2455296.6,46.8,Jones 2014,http://adsabs.harvard.edu/abs/2015A%26A...573A...3J,Jones 2014,http://adsabs.harvard.edu/abs/2015A%26A...573A...3J
+HD 212301 b,0.39615,0.034116,2.245715,0,0,2453549.195,59.5,Lo Curto 2006,http://adsabs.harvard.edu/abs/2006A%26A...451..345L,Lo Curto 2006,http://adsabs.harvard.edu/abs/2006A%26A...451..345L
+HD 209458 b,0.68851,0.047235,3.52474859,0,0,2452826.628514,84.67,Torres 2008,http://adsabs.harvard.edu/abs/2008ApJ...677.1324T,Henry 2000 ; Charbonneau 2000,http://adsabs.harvard.edu/abs/2000ApJ...529L..41H ; http://adsabs.harvard.edu/abs/2000ApJ...529L..45C
+HD 102272 b,4.10898,0.512595,127.58,0.05,118,2452146,155.5,Niedzielski 2008,http://adsabs.harvard.edu/abs/2009ApJ...693..276N,Niedzielski 2008,http://adsabs.harvard.edu/abs/2009ApJ...693..276N
+HD 181433 b,0.0237331,0.0800943,9.3743,0.396,202,2454542,2.94,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B,Bouchy 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..527B
+HD 187123 b,0.510056,0.042091,3.0965828,0.0102736,24.5363,2454343.116,69.4006,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Butler 1998,http://adsabs.harvard.edu/abs/1998PASP..110.1389B
+HD 108147 b,0.257999,0.101407,10.8985,0.53,308,2450828.86,25.1,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Pepe 2002,http://adsabs.harvard.edu/abs/2002A%26A...388..632P
+eta Cet b,2.5485,1.28444,407.5,0.155,244.7,,49.6,Trifonov 2014,http://adsabs.harvard.edu/abs/2014A%26A...568A..64T,Trifonov 2014,http://adsabs.harvard.edu/abs/2014A%26A...568A..64T
+HD 215497 c,0.327524,1.28243,567.94,0.49,45,2455003.48,10.1,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L
+xi Aql b,1.77912,0.53813,136.75,0,0,2453001.7,65.4,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S
+HD 33564 b,9.12785,1.1241,388,0.34,205,2452603,232,Galland 2005,http://adsabs.harvard.edu/abs/2005A%26A...444L..21G,Galland 2005,http://adsabs.harvard.edu/abs/2005A%26A...444L..21G
+HD 40979 b,4.02224,0.846038,264.15,0.252,323.4,2453919,119.4,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Fischer 2003,http://adsabs.harvard.edu/abs/2003ApJ...586.1394F
+GJ 581 c,0.0167756,0.0729238,12.9182,0.07,235,2454763,3.18,Forveille 2011,http://xxx.lanl.gov/abs/1109.2505,Udry 2007,http://adsabs.harvard.edu/abs/2007A%26A...469L..43U
+HD 10180 c,0.0415054,0.0641175,5.75962,0.077,279,2454001.4959,4.54,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L
+bet UMi b,6.1,1.4219,522.3,0.19,307.4,2453175.3,126.1,Lee 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A..67L,Lee 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A..67L
+HD 134987 c,0.804926,5.82513,5000,0.12,195,2451100,9.3,Jones 2010,http://adsabs.harvard.edu/abs/2010MNRAS.403.1703J,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+HD 40307 b,0.0129071,0.0468927,4.3115,0,0,2454562.77,1.97,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..639M,Mayor 2009,http://adsabs.harvard.edu/abs/2009A%26A...493..639M
+BD -11 4672 b,0.537715,2.28335,1667,0.05,231,2455899,13.4,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M,Moutou 2015,http://adsabs.harvard.edu/abs/2015A%26A...576A..48M
+iota Dra b,9.31534,1.31029,511.098,0.7124,91.58,2452014.59,307.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Frink 2002,http://adsabs.harvard.edu/abs/2002ApJ...576..478F
+HD 108874 b,1.2902,1.03527,394.48124,0.1276,219.356,2454045.049,37.27,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Butler 2003,http://adsabs.harvard.edu/abs/2003ApJ...582..455B
+HD 4732 b,2.37727,1.19218,360.2,0.13,85,2454967,47.3,Sato 2013,http://adsabs.harvard.edu/abs/2013ApJ...762....9S,Sato 2013,http://adsabs.harvard.edu/abs/2013ApJ...762....9S
+HD 23596 b,7.74272,2.77219,1561,0.266,272.6,2453162,127,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Perrier 2003,http://adsabs.harvard.edu/abs/2003A%26A...410.1039P
+HD 25171 b,0.956204,3.03064,1845,0.08,96,2455301,15,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M,Moutou 2011,http://adsabs.harvard.edu/abs/2011A%26A...527A..63M
+HD 83443 b,0.395855,0.0404623,2.985698,0.013,117,2451211.79,56.2,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2002,http://adsabs.harvard.edu/abs/2002ApJ...578..565B
+HD 43691 b,2.49717,0.241901,36.959999,0.14,290,2454046.6,124,Da Silva 2007,http://adsabs.harvard.edu/abs/2007A%26A...473..323D,Da Silva 2007,http://adsabs.harvard.edu/abs/2007A%26A...473..323D
+HD 165155 b,2.80946,1.13113,434.5,0.2,210,,75.8,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J
+30 Ari B b,9.87792,0.99475,335.1,0.289,307,2454538,272,Guenther 2009,http://adsabs.harvard.edu/abs/2009A%26A...507.1659G,Guenther 2009,http://adsabs.harvard.edu/abs/2009A%26A...507.1659G
+HIP 8541 b,5.48299,2.77823,1560.2,0.16,293.9,2454346.9,87.4,Jones 2016,http://adsabs.harvard.edu/abs/2016A%26A...590A..38J,Jones 2016,http://adsabs.harvard.edu/abs/2016A%26A...590A..38J
+BD -08 2823 c,0.328101,0.679166,237.6,0.19,127,2454193,13.4,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..46H,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..46H
+4 UMa b,7.13242,0.876999,269.29999,0.432,23.81,2452987.394,215.55,Dollinger 2007,http://adsabs.harvard.edu/abs/2007A%26A...472..649D,Dollinger 2007,http://adsabs.harvard.edu/abs/2007A%26A...472..649D
+HD 10697 b,6.23505,2.13177,1075.2,0.099,111.2,2451480,115.4,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+HD 33844 c,1.76867,2.23776,916,0.13,71,2454544,25.4,Wittenmyer 2016,http://adsabs.harvard.edu/abs/2016ApJ...818...35W,Wittenmyer 2016,http://adsabs.harvard.edu/abs/2016ApJ...818...35W
+HD 113337 b,2.83,1.03346,324,0.46,219.2,2456074.5,75.6,Borgniet 2013,http://adsabs.harvard.edu/abs/2013arXiv1310.1994B,Borgniet 2013,http://adsabs.harvard.edu/abs/2013arXiv1310.1994B
+BD +20 2457 b,11.8883,1.04992,379.63,0.15,207.64,2454677.03,322.35,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N
+mu Ara d,0.0345873,0.0927843,9.6386,0.172,212.7,2452991.1,3.06,Pepe 2007,http://adsabs.harvard.edu/abs/2007A%26A...462..769P,Santos 2004,http://adsabs.harvard.edu/abs/2004A%26A...426L..19S
+HD 3651 b,0.228975,0.29472,62.218,0.596,245.5,2453932.6,15.9,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Fischer 2003,http://adsabs.harvard.edu/abs/2003ApJ...590.1081F
+HD 99706 b,1.40289,2.13423,868,0.37,6,2455220,22.4,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 169830 b,2.88946,0.813279,225.62,0.31,148,2451923,80.7,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Naef 2001,http://adsabs.harvard.edu/abs/2001A%26A...375..205N
+HD 175541 b,0.52763,0.961227,297.3,0.33,183,2450213,14,Johnson 2007,http://adsabs.harvard.edu/abs/2007ApJ...665..785J,Johnson 2007,http://adsabs.harvard.edu/abs/2007ApJ...665..785J
+HD 202206 c,2.33098,2.49004,1383.4,0.267,78.99,2452435.990435649,42.01,Correia 2005,http://adsabs.harvard.edu/abs/2005A%26A...440..751C,Correia 2005,http://adsabs.harvard.edu/abs/2005A%26A...440..751C
+HD 145457 b,2.97219,0.762504,176.3,0.112,300,2453518,70.6,Sato 2010,http://adsabs.harvard.edu/abs/2010PASJ...62.1063S,Sato 2010,http://adsabs.harvard.edu/abs/2010PASJ...62.1063S
+HD 206610 b,1.97113,1.53703,610,0.229,296,2454677,40.7,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+M 67 SAND 364 b,1.88274,0.531449,121.71,0.35,273.51,2456240.9,67.42,Brucalassi 2014,http://adsabs.harvard.edu/abs/2014A%26A...561L...9B,Brucalassi 2014,http://adsabs.harvard.edu/abs/2014A%26A...561L...9B
+HD 29021 b,2.45698,2.28031,1362.3,0.459,179.5,2455823.9,56.4,Rey 2017,http://adsabs.harvard.edu/abs/2017A%26A...601A...9R,Rey 2017,http://adsabs.harvard.edu/abs/2017A%26A...601A...9R
+HD 12661 c,1.9487,2.91927,1707.8812,0.0312556,165.406,2456153.417,30.4148,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Fischer 2003,http://adsabs.harvard.edu/abs/2003ApJ...586.1394F
+HD 69830 d,0.0563373,0.627426,197,0.07,224,2453358,2.2,Lovis 2006,http://adsabs.harvard.edu/abs/2006Natur.441..305L,Lovis 2006,http://adsabs.harvard.edu/abs/2006Natur.441..305L
+HD 28254 b,1.1614,2.14768,1116,0.81,301,2454049,37.3,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+HD 81688 b,2.6907,0.811148,184.02,0,0,2452335.4,58.58,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S
+HD 210277 b,1.27275,1.13105,442.19,0.476,119.1,2450104.3,38.94,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 1999,http://adsabs.harvard.edu/abs/1999ApJ...520..239M
+HD 14067 b,7.81295,3.36797,1455,0.533,109.9,2451443,92.2,Wang 2014,http://adsabs.harvard.edu/abs/2014PASJ...66..118W,Wang 2014,http://adsabs.harvard.edu/abs/2014PASJ...66..118W
+HD 35759 b,3.77395,0.388877,82.467,0.389,-104,2456469.72,173.9,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+GJ 15 A b,0.0168,0.0716678,11.4433,0,90,,2.94,Howard 2014,http://adsabs.harvard.edu/abs/2014ApJ...794...51H,Howard 2014,http://adsabs.harvard.edu/abs/2014ApJ...794...51H
+55 Cnc b,0.801471,0.113377,14.651,0.004,110,2453035,71.11,Endl 2012,http://adsabs.harvard.edu/abs/2012ApJ...759...19E,Butler 1997,http://adsabs.harvard.edu/abs/1997ApJ...474L.115B
+BD +15 2375 b,1.06215,0.575123,153.22,0.001,55,2457680,38.3,Niedzielski 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A..62N,Niedzielski 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A..62N
+HD 207832 b,0.564176,0.569755,161.97,0.13,130.8,2453081.608335,22.1,Haghighipour 2012,http://adsabs.harvard.edu/abs/2012ApJ...756...91H,Haghighipour 2012,http://adsabs.harvard.edu/abs/2012ApJ...756...91H
+M 67 YBP 1514 b,0.397418,0.057344,5.118,0.39,327.49,2455986.3,52.29,Brucalassi 2014,http://adsabs.harvard.edu/abs/2014A%26A...561L...9B,Brucalassi 2014,http://adsabs.harvard.edu/abs/2014A%26A...561L...9B
+HD 219134 c,0.0136956,0.0652526,6.76458,0.062,70,,1.697,Gillon 2017,http://adsabs.harvard.edu/abs/2017NatAs...1E..56G,Motalebi 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..72M
+GJ 3293 b,0.0741085,0.143389,30.59857452,0.0611026,304.186,2456010.7910348205,8.60143,Astudillo-Defru 2015 (corrected; private communication),http://adsabs.harvard.edu/abs/2015A%26A...575A.119A,Astudillo-Defru 2015,http://adsabs.harvard.edu/abs/2015A%26A...575A.119A
+HD 33283 b,0.330171,0.145378,18.179001,0.48,155.8,2453017.6,25.2,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..600J,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..600J
+HD 10180 e,0.0797893,0.269917,49.747,0.065,174,2454008.7883,4.25,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L
+YZ Cet d,0.00359635,0.027645,4.65627,0.129,99.5,2456841.59,1.72,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...605L..11A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...605L..11A
+55 Cnc d,3.54451,5.47467,4909,0.02,254,2453490,45.2,Endl 2012,http://adsabs.harvard.edu/abs/2012ApJ...759...19E,Marcy 2002,http://adsabs.harvard.edu/abs/2002ApJ...581.1375M
+HD 155233 b,1.99403,2.06593,885,0.03,95,2455112,32.2,Wittenmyer 2016,http://adsabs.harvard.edu/abs/2016MNRAS.455.1398W,Wittenmyer 2016,http://adsabs.harvard.edu/abs/2016MNRAS.455.1398W
+HD 148156 b,0.847612,2.12913,1027,0.52,35,2454707,17.5,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+HD 222155 b,2.02633,5.13864,3999,0.16,137,2456319,24.2,Boisse 2012,http://adsabs.harvard.edu/abs/2012A%26A...545A..55B,Boisse 2012,http://adsabs.harvard.edu/abs/2012A%26A...545A..55B
+HD 73526 b,2.8556,0.646509,188.3,0.19,203,2451167.1474222224,102,Tinney 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..594T,Tinney 2003,http://adsabs.harvard.edu/abs/2003ApJ...587..423T
+HD 117207 b,1.8189,3.73753,2597,0.144,73,2450630,26.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 2005,http://adsabs.harvard.edu/abs/2005ApJ...619..570M
+HD 121504 b,1.2223,0.328688,63.330002,0.03,265,2451450,55.8,Mayor 2004,http://adsabs.harvard.edu/abs/2004A&A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A&A...415..391M
+HD 40956 b,4.30224,1.7133,578.6,0.24,338.62,2455341.88,68,Jeong 2018,http://adsabs.harvard.edu/abs/2018A%26A...610A...3J,Jeong 2018,http://adsabs.harvard.edu/abs/2018A%26A...610A...3J
+GJ 3138 d,0.0340807,0.698075,258.14242533,0.286822,250.854,2456581.5448693507,1.46698,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 156846 b,11.0076,1.11751,359.51001,0.8472,52.23,2453998.09,464.3,Tamuz 2008,http://adsabs.harvard.edu/abs/2008A%26A...480L..33T,Tamuz 2008,http://adsabs.harvard.edu/abs/2008A%26A...480L..33T
+HD 224693 b,0.714594,0.192441,26.73,0.05,6,2453193.9,40.2,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..600J,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..600J
+HD 158038 b,1.79425,1.49788,521,0.291,334,2455491,33.9,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+GJ 3942 b,0.0224877,0.0608369,6.905,0.121,112.7,,3.29,Perger 2017,http://adsabs.harvard.edu/abs/2017A%26A...608A..63P,Perger 2017,http://adsabs.harvard.edu/abs/2017A%26A...608A..63P
+GJ 179 b,0.824243,2.41241,2288,0.21,153,2455140,25.8,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H,Howard 2010,http://adsabs.harvard.edu/abs/2010ApJ...721.1467H
+HD 143361 b,3.42269,1.98497,1046.2,0.193,241,,72.1,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Minniti 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1424M
+HD 155358 b,0.819484,0.626938,194.3,0.17,143,2451224.8,32,Robertson 2012,http://adsabs.harvard.edu/abs/2012ApJ...749...39R,Cochran 2007,http://adsabs.harvard.edu/abs/2007ApJ...665.1407C
+HD 192310 b,0.0531258,0.322307,74.72,0.13,173,2455116.198,3,Pepe 2011,http://adsabs.harvard.edu/abs/2011A%26A...534A..58P,Howard 2011,http://adsabs.harvard.edu/abs/2011ApJ...730...10H
+upsilon And b,0.669277,0.0593858,4.6171363,0.013,50.9829,2454425.017,68.2132,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Butler 1997,http://adsabs.harvard.edu/abs/1997ApJ...474L.115B
+TYC 3318-01333-1 b,3.42866,1.41366,562,0.098,129,2454340,75.42,Adamow 2018,http://adsabs.harvard.edu/abs/2018A%26A...613A..47A,Adamow 2018,http://adsabs.harvard.edu/abs/2018A%26A...613A..47A
+HD 176986 b,0.0200181,0.0629202,6.4898,0.066,249,2455502.9,2.56,Suarez Mascareno 2018,http://adsabs.harvard.edu/abs/2018A%26A...612A..41S,Suarez Mascareno 2018,http://adsabs.harvard.edu/abs/2018A%26A...612A..41S
+HD 86081 b,1.49595,0.0346186,2.1375,0.008,251,2453694.8,207.7,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..600J,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...647..600J
+HD 109246 b,0.768085,0.328074,68.27,0.12,235,2454824.6,38.2,Boisse 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..88B,Boisse 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..88B
+Kepler-68 d,0.80971,1.39638,580,0.18,,,19.06,Gilliland 2013,http://adsabs.harvard.edu/abs/2013ApJ...766...40G,Gilliland 2013,http://adsabs.harvard.edu/abs/2013ApJ...766...40G
+HD 128311 c,3.24848,1.74533,923.8,0.23,28,2456987,78.8,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V
+HD 222076 b,,1.82563,871,0.08,241,2454264,,Wittenmyer 2017,http://adsabs.harvard.edu/abs/2017AJ....153...51W,Wittenmyer 2017,http://adsabs.harvard.edu/abs/2017AJ....153...51W
+GJ 876 b,1.9469,0.208098,61.1166,0.0324,50.3,2450546.8,214,Rivera 2010,http://adsabs.harvard.edu/abs/2010ApJ...719..890R,Delfosse 1998 ; Marcy 1998,http://adsabs.harvard.edu/abs/1998A%26A...338L..67D ; http://adsabs.harvard.edu/abs/1998ApJ...505L.147M
+HD 164509 b,0.480333,0.877542,282.4,0.26,324,2455703,14.2,Giguere 2012,http://adsabs.harvard.edu/abs/2012ApJ...744....4G,Giguere 2012,http://adsabs.harvard.edu/abs/2012ApJ...744....4G
+HD 9446 b,0.698769,0.189213,30.052,0.2,215,2454854.4,46.6,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A&A...513A..69H,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A&A...513A..69H
+HD 18742 b,2.8638,1.97816,772,0.12,102,2455200,44.3,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 167042 b,1.63682,1.29371,420.77,0.089,85.7,2454230.1,32.16,Bowler 2010,http://adsabs.harvard.edu/abs/2010ApJ...709..396B,Johnson 2008,http://adsabs.harvard.edu/abs/2008ApJ...675..784J
+HD 86950 b,3.61213,2.71944,1270,0.17,243,2454245,49,Wittenmyer 2017,http://adsabs.harvard.edu/abs/2017AJ....153...51W,Wittenmyer 2017,http://adsabs.harvard.edu/abs/2017AJ....153...51W
+HD 69830 b,0.0316488,0.0781916,8.6669998,0.1,340,2453496.8,3.51,Lovis 2006,http://adsabs.harvard.edu/abs/2006Natur.441..305L,Lovis 2006,http://adsabs.harvard.edu/abs/2006Natur.441..305L
+HD 114762 b,11.6351,0.362932,83.9151,0.3354,201.28,2449889.106,612.48,Kane 2011,http://adsabs.harvard.edu/abs/2011ApJ...735L..41K,Latham 1989,http://adsabs.harvard.edu/abs/1989Natur.339...38L
+61 Vir c,0.0333747,0.216926,38.021,0.14,341,2453350.4723572917,2.12,Vogt 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1366V,Vogt 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1366V
+HD 45652 b,0.468448,0.227878,43.6,0.38,273,2454120.3,33.1,Santos 2008,http://adsabs.harvard.edu/abs/2008A%26A...487..369S,Santos 2008,http://adsabs.harvard.edu/abs/2008A%26A...487..369S
+HD 5583 b,5.80266,0.528741,139.35,0.076,12,2456021,225.8,Niedzielski 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A..62N,Niedzielski 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A..62N
+HIP 105854 b,8.2,0.812352,184.2,0.02,343.2,2455262.4,178.1,Jones 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A.113J,Jones 2014,http://adsabs.harvard.edu/abs/2014A%26A...566A.113J
+HD 73256 b,1.86902,0.0371348,2.5485799,0.029,337.3,2452500.18,269,Udry 2003,http://adsabs.harvard.edu/abs/2003A%26A...407..679U,Udry 2003,http://adsabs.harvard.edu/abs/2003A%26A...407..679U
+6 Lyn b,2.20888,2.18639,874.774,0.059,314.9,2454024.5,31.52,Bowler 2010,http://adsabs.harvard.edu/abs/2010ApJ...709..396B,Sato 2008 ; Johnson 2008,http://adsabs.harvard.edu/abs/2008PASJ...60.1317S ; http://adsabs.harvard.edu/abs/2008ApJ...675..784J
+HD 180314 b,22.6261,1.45528,396.03,0.257,303.1,2453565.9,340.8,Sato 2010,http://adsabs.harvard.edu/abs/2010PASJ...62.1063S,Sato 2010,http://adsabs.harvard.edu/abs/2010PASJ...62.1063S
+HD 17092 b,4.96206,1.30798,359.89999,0.166,347.4,2452969.5,82.4,Niedzielski 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1354N,Niedzielski 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1354N
+HD 34445 e,0.051651,0.268681,49.175,0.09,300,,2.75,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V,Vogt 2017,http://adsabs.harvard.edu/abs/2017AJ....154..181V
+HIP 57274 b,0.0365708,0.0712798,8.1352,0.187,81,2454801.015,4.64,Fischer 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...21F,Fischer 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...21F
+HD 202206 b,16.8244,0.811776,255.87,0.435,161.18,2452175.3356994856,564.75,Correia 2005,http://adsabs.harvard.edu/abs/2005A%26A...440..751C,Udry 2002,http://adsabs.harvard.edu/abs/2002A%26A...390..267U
+GJ 273 b,0.00910315,0.0911013,18.64968369,0.104999,70.6132,2456227.8324024533,1.60118,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 108874 c,1.02837,2.72021,1680.3835,0.273039,10.4522,2452797.335,18.8971,Wright 2009,http://adsabs.harvard.edu/abs/2005ApJ...632..638V,Vogt 2005,http://adsabs.harvard.edu/abs/2005ApJ...632..638V
+GJ 832 c,0.016749,0.162542,35.68,0.18,10,2449983.65,1.79,Wittenmyer 2014,http://adsabs.harvard.edu/abs/2014ApJ...791..114W,Wittenmyer 2014,http://adsabs.harvard.edu/abs/2014ApJ...791..114W
+HD 200964 c,0.945722,2.00121,825,0.181,182.6,2455000,15.42,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J
+HD 10180 h,0.206033,3.42452,2248,0.151,184,2453619.1739,3.11,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L
+HD 33142 b,1.41137,1.09038,326.6,0.12,138,2455324,30.4,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 7924 b,0.0273647,0.0566417,5.39792,0.058,332,2455584.698,3.59,Fulton 2015,http://adsabs.harvard.edu/abs/2015ApJ...805..175F,Howard 2009,http://adsabs.harvard.edu/abs/2009ApJ...696...75H
+HD 109271 c,0.0771544,0.195818,30.93,0.15,4,2455733,4.9,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L
+HD 99109 b,0.504198,1.10806,439.3,0.09,256,2451310,14.1,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+HD 10647 b,0.925037,2.02175,1003,0.16,336,2450960,17.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+HD 111591 b,4.44725,2.53363,1056.4,0.26,78.72,2455602.4,59,Jeong 2018,http://adsabs.harvard.edu/abs/2018A%26A...610A...3J,Jeong 2018,http://adsabs.harvard.edu/abs/2018A%26A...610A...3J
+upsilon And c,1.91855,0.830445,241.33335,0.223848,250.76,2454265.567,53.6229,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Butler 1999,http://adsabs.harvard.edu/abs/1999ApJ...526..916B
+HD 170469 b,0.668676,2.23538,1145,0.11,34,2451669,12,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F
+HD 88133 b,0.296108,0.0469104,3.41587,0.133,349,2453016.31,36.1,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Fischer 2005,http://adsabs.harvard.edu/abs/2005ApJ...620..481F
+HD 196885 b,2.9439,2.54171,1333,0.48,78,2452554,53.9,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F,Correia 2008,http://adsabs.harvard.edu/abs/2008A%26A...479..271C
+24 Sex b,1.83564,1.4118,455.2,0.184,227,2454758,33.2,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J,Johnson 2011,http://adsabs.harvard.edu/abs/2011AJ....141...16J
+HD 190228 b,5.94193,2.60478,1136.1,0.531,101.2,2453522,91.4,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Perrier 2003,http://adsabs.harvard.edu/abs/2003A%26A...410.1039P
+HD 141399 b,0.450523,0.415174,94.44,0.04,-90,,19.23,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Vogt 2014,http://adsabs.harvard.edu/abs/2014ApJ...787...97V
+HIP 74890 b,2.43024,2.06698,822.3,0.07,181.9,2454820.4,36.5,Jones 2016,http://adsabs.harvard.edu/abs/2016A%26A...590A..38J,Jones 2016,http://adsabs.harvard.edu/abs/2016A%26A...590A..38J
+HD 181720 b,0.37199,1.84741,956,0.26,177,2453631,8.4,Santos 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..47S,Santos 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..47S
+55 Cnc c,0.164558,0.237305,44.38,0.07,356,2453083,10.12,Endl 2012,http://adsabs.harvard.edu/abs/2012ApJ...759...19E,Marcy 2002,http://adsabs.harvard.edu/abs/2004ApJ...614L..81M
+HD 156411 b,0.732711,1.87545,842.2,0.22,45,2454356,14,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+91 Aqr b,3.07016,0.688457,181.4,0.027,177.3,2453472.1,91.5,Mitchell 2013,http://adsabs.harvard.edu/abs/2013A%26A...555A..87M,Mitchell 2013,http://adsabs.harvard.edu/abs/2013A%26A...555A..87M
+HD 27894 b,0.617925,0.122117,17.990999,0.049,132.9,2453275.46,58.1,Moutou 2005,http://adsabs.harvard.edu/abs/2005A%26A...439..367M,Moutou 2005,http://adsabs.harvard.edu/abs/2005A%26A...439..367M
+HD 156279 b,9.7848,0.494507,131.05,0.708,264.2,2455525.59,578,Diaz 2012,http://adsabs.harvard.edu/abs/2012A%26A...538A.113D,Diaz 2012,http://adsabs.harvard.edu/abs/2012A%26A...538A.113D
+61 Vir d,0.0715929,0.474527,123.01,0.35,314,2453350.031126736,3.25,Vogt 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1366V,Vogt 2010,http://adsabs.harvard.edu/abs/2010ApJ...708.1366V
+HD 179079 b,0.0837774,0.119635,14.476,0.115,357,2454400.5,6.64,Valenti 2009,http://adsabs.harvard.edu/abs/2009ApJ...702..989V,Valenti 2009,http://adsabs.harvard.edu/abs/2009ApJ...702..989V
+Kepler-432 c,2.36402,1.17816,406.2,0.498,60.8,2456139.3,62.1,Quinn 2015,http://adsabs.harvard.edu/abs/2015ApJ...803...49Q,Ciceri 2015,http://adsabs.harvard.edu/abs/2015A%26A...573L...5C
+HD 4113 b,1.64829,1.27266,526.62,0.903,317.7,2453778,97.1,Tamuz 2008,http://adsabs.harvard.edu/abs/2008A%26A...480L..33T,Tamuz 2008,http://adsabs.harvard.edu/abs/2008A%26A...480L..33T
+HD 330075 b,0.623724,0.0392074,3.38773,0,0,2452878.815,107,Pepe 2004,http://adsabs.harvard.edu/abs/2004A%26A...423..385P,Pepe 2004,http://adsabs.harvard.edu/abs/2004A%26A...423..385P
+HD 104985 b,4.9174,0.678014,199.505,0.09,203.5,2451927.5,166.8,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S,Sato 2003,http://adsabs.harvard.edu/abs/2003ApJ...597L.157S
+Ross 128 b,0.004436,0.0496746,9.8658,0.116,,2456740.07,1.39,Bonfils 2018,http://adsabs.harvard.edu/abs/2018A%26A...613A..25B,Bonfils 2018,http://adsabs.harvard.edu/abs/2018A%26A...613A..25B
+HD 87883 b,1.75571,3.57648,2754,0.53,291,2451139,34.7,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F
+HD 219134 f,0.0229933,0.146332,22.717,0.148,81,,1.92,Gillon 2017,http://adsabs.harvard.edu/abs/2017NatAs...1E..56G,Vogt 2015,http://adsabs.harvard.edu/abs/2015ApJ...814...12V
+HD 10180 g,0.0673813,1.42271,602,0,90,2454042.585,1.56,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L
+HD 66428 b,2.74962,3.14259,1973,0.465,152.9,2452139,48.3,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B
+HD 52265 b,1.07139,0.499878,119.29,0.325,243,2450833.7,42.1,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2000,http://adsabs.harvard.edu/abs/2000ApJ...545..504B
+HD 147873 c,2.24603,1.35778,491.54,0.23,42,,47.9,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J,Jenkins 2017,http://adsabs.harvard.edu/abs/2017MNRAS.466..443J
+HD 16417 b,0.0669595,0.135435,17.24,0.2,77,2450099.74,5,O'Toole 2009,http://adsabs.harvard.edu/abs/2009ApJ...697.1263O,O'Toole 2009,http://adsabs.harvard.edu/abs/2009ApJ...697.1263O
+HD 205739 b,1.48708,0.894939,279.8,0.27,301,2453390.7,42,Lopez-Morales 2008,http://adsabs.harvard.edu/abs/2008AJ....136.1901L,Lopez-Morales 2008,http://adsabs.harvard.edu/abs/2008AJ....136.1901L
+HD 216770 b,0.646927,0.455837,118.45,0.37,281,2452672,30.9,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 136418 b,1.9935,1.29111,464.3,0.255,12,2455228,44.7,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+gamma Lib c,4.58986,2.17458,964.6,0.057,146,2450725,73,Takarada 2018,http://adsabs.harvard.edu/abs/2018PASJ..tmp...64T,Takarada 2018,http://adsabs.harvard.edu/abs/2018PASJ..tmp...64T
+GJ 163 d,0.0926098,1.03037,603.95116,0.373,2.064,2452876.6622,4.42,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A.110B,Bonfils 2013,http://adsabs.harvard.edu/abs/2013A%26A...556A.110B
+HD 215152 e,0.00905232,0.15417,25.1967,0,90,,0.747,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D,Delisle 2018,http://adsabs.harvard.edu/abs/2018A%26A...614A.133D
+HD 188015 b,1.46957,1.19018,461.2,0.137,222,2451787,37.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Marcy 2005,http://adsabs.harvard.edu/abs/2005ApJ...619..570M
+HD 10180 d,0.0376549,0.128581,16.3567,0.143,292,2454005.3799,2.93,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L,Lovis 2011,http://adsabs.harvard.edu/abs/2011A%26A...528A.112L
+HD 9446 c,1.81548,0.65375,192.9,0.06,100,2454510,63.9,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A&A...513A..69H,Hebrard 2010,http://adsabs.harvard.edu/abs/2010A&A...513A..69H
+HD 37124 b,0.674371,0.533637,154.378,0.054,130,2450305,28.5,Wright 2011,http://adsabs.harvard.edu/abs/2011ApJ...730...93W,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+gamma Cep b,1.51728,1.9793,905.574,0.12,49.6,2453121.925,27.5,Hatzes 2003,http://adsabs.harvard.edu/abs/2003ApJ...599.1383H,Campbell 1988,http://adsabs.harvard.edu/abs/1988ApJ...331..902C
+HD 1605 c,3.50295,3.52689,2111,0.098,241,2454758.3,46.5,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H,Harakawa 2015,http://adsabs.harvard.edu/abs/2015ApJ...806....5H
+GJ 86 b,4.00104,0.114217,15.76491,0.0416,269,2451903.36,376.7,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Queloz 2000,http://adsabs.harvard.edu/abs/2000A%26A...354...99Q
+HD 8574 b,1.80603,0.757141,227,0.297,26.6,2453981,58.3,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Perrier 2003,http://adsabs.harvard.edu/abs/2003A%26A...410.1039P
+HD 82886 b,1.30477,1.58126,705,0.066,347,2455200,28.7,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 179949 b,0.902075,0.0439208,3.092514,0.022,192,2451002.36,112.6,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2001,http://adsabs.harvard.edu/abs/2001ApJ...551..507T
+GJ 3293 e,0.0104938,0.0820805,13.25319599,0.215874,118.738,2456014.055127659,1.64572,Astudillo-Defru 2015 (corrected; private communication),http://adsabs.harvard.edu/abs/2015A%26A...575A.119A,Astudillo-Defru 2015,http://adsabs.harvard.edu/abs/2015A%26A...575A.119A
+HD 2952 b,1.62021,1.22755,311.6,0.129,64,2450112,26.3,Sato 2013,http://adsabs.harvard.edu/abs/2013arXiv1304.4328S,Sato 2013,http://adsabs.harvard.edu/abs/2013arXiv1304.4328S
+YZ Cet b,0.00234218,0.0155735,1.96876,0,-63.4,2456844.45,1.48,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...605L..11A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...605L..11A
+HIP 14810 c,1.27518,0.545404,147.76916,0.153155,327.286,2454671.631,49.8989,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...699L..97W,Wright 2007,http://adsabs.harvard.edu/abs/2007ApJ...657..533W
+HD 28678 b,1.8997,1.31659,387.1,0.168,128,2455517,33.5,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 143105 b,1.21302,0.0379591,2.1974,0,90,2456531.344,144,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H,Hebrard 2016,http://adsabs.harvard.edu/abs/2016A%26A...588A.145H
+HD 96167 b,0.68457,1.34724,498.9,0.71,285,2453057,20.8,Peek 2009,http://adsabs.harvard.edu/abs/2009PASP..121..613P,Peek 2009,http://adsabs.harvard.edu/abs/2009PASP..121..613P
+HD 43197 b,0.596868,0.918027,327.8,0.83,251,2454713.8,32.4,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N,Naef 2010,http://adsabs.harvard.edu/abs/2010A%26A...523A..15N
+HD 37605 c,3.36552,3.81754,2720,0.013,221,2454838,48.9,Wang 2012,http://adsabs.harvard.edu/abs/2012ApJ...761...46W,Wang 2012,http://adsabs.harvard.edu/abs/2012ApJ...761...46W
+TYC 3667-1280-1 b,5.40146,0.214338,26.468,0.036,240,2456319.6,242.4,Niedzielski 2016,http://adsabs.harvard.edu/abs/2016A%26A...589L...1N,Niedzielski 2016,http://adsabs.harvard.edu/abs/2016A%26A...589L...1N
+GJ 273 c,0.00374866,0.0364676,4.72335022,0.169278,150.973,2456234.6922407043,1.05158,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 183263 b,3.57445,1.49006,626.516,0.35672,233.532,2452111.688,84.0443,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Marcy 2005,http://adsabs.harvard.edu/abs/2005ApJ...619..570M
+11 Com b,16.1284,1.17872,326.03,0.231,94.8,2452899.6,302.8,Liu 2008,http://adsabs.harvard.edu/abs/2008ApJ...672..553L,Liu 2008,http://adsabs.harvard.edu/abs/2008ApJ...672..553L
+HD 145377 b,5.78201,0.450064,103.95,0.307,138.1,2454635.4,242.7,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M
+omicron CrB b,1.47736,0.826048,187.83,0.191,79,2452211,32.25,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S
+HD 47366 c,1.86351,1.85343,684.7,0.278,132,2450445,30.1,Sato 2016,http://adsabs.harvard.edu/abs/2016ApJ...819...59S,Sato 2016,http://adsabs.harvard.edu/abs/2016ApJ...819...59S
+beta Gem b,2.75822,1.75739,589.64001,0.02,354.58,2447739.02,41,Hatzes 2006,http://adsabs.harvard.edu/abs/2006A%26A...457..335H,Hatzes 1993,http://adsabs.harvard.edu/abs/1993ApJ...413..339H
+Pr 201 b,0.540155,0.0565986,4.4264,0,90,2455992.861,58.1,Quinn 2012,http://adsabs.harvard.edu/abs/2012ApJ...756L..33Q,Quinn 2012,http://adsabs.harvard.edu/abs/2012ApJ...756L..33Q
+47 UMa b,2.54589,2.10149,1078,0.032,334,2451917,48.4,Gregory 2010,http://adsabs.harvard.edu/abs/2010MNRAS.403..731G,Butler 1996,http://adsabs.harvard.edu/abs/1996ApJ...464L.153B
+HD 240210 b,7.28868,1.33364,501.75,0.15,277.49,2454486.76,161.89,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N,Niedzielski 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..768N
+HD 109749 b,0.27467,0.0629198,5.24,0,0,2453013.55,28.3,Fischer 2006,http://adsabs.harvard.edu/abs/2006ApJ...637.1094F,Fischer 2006,http://adsabs.harvard.edu/abs/2006ApJ...637.1094F
+HD 45364 c,0.658513,0.897549,342.85,0.0974,7.41,2453250.376643117,21.92,Correia 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..521C,Correia 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..521C
+HD 11506 c,0.36,0.774655,223.6,0.24,272,2454127,12.5,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G
+24 Boo b,0.912932,0.189841,30.3506,0.042,210,2450008.6,59.9,Takarada 2018,http://adsabs.harvard.edu/abs/2018PASJ..tmp...64T,Takarada 2018,http://adsabs.harvard.edu/abs/2018PASJ..tmp...64T
+HD 147379 b,0.0778032,0.319334,86.54,0.01,93,2451665.1,5.14,Reiners 2018,http://adsabs.harvard.edu/abs/2018A%26A...609L...5R,Reiners 2018,http://adsabs.harvard.edu/abs/2018A%26A...609L...5R
+HD 159243 c,1.9,0.804743,248.4,0.075,69,2456484,56.6,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M,Moutou 2013,http://adsabs.harvard.edu/abs/2013arXiv1311.5271M
+HD 158996 b,14.0573,2.09115,820.2,0.13,168,2454993,207,Bang 2018,http://adsabs.harvard.edu/abs/2018JKAS...51...17B,Bang 2018,http://adsabs.harvard.edu/abs/2018JKAS...51...17B
+GJ 3470 b,0.0439856,0.0356088,3.336649,0,90,2456340.72559,9.01,Bonfils 2012,http://adsabs.harvard.edu/abs/2012A%26A...546A..27B,Bonfils 2012,http://adsabs.harvard.edu/abs/2012A%26A...546A..27B
+eta Cet c,3.28703,1.91985,744.5,0.025,32.5,,51.7,Trifonov 2014,http://adsabs.harvard.edu/abs/2014A%26A...568A..64T,Trifonov 2014,http://adsabs.harvard.edu/abs/2014A%26A...568A..64T
+HD 96127 b,4.00701,1.42112,647.3,0.3,162,2453969.4,104.8,Gettel 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...28G,Gettel 2012,http://adsabs.harvard.edu/abs/2012ApJ...745...28G
+HD 17156 b,3.30035,0.163197,21.21663,0.6819,121.9,2454757.00787,279.8,Barbieri 2009,http://adsabs.harvard.edu/abs/2009A%26A...503..601B,Fischer 2007,http://adsabs.harvard.edu/abs/2007ApJ...669.1336F
+HD 16760 b,13.2921,1.08727,465.1,0.067,232,2454723,408,Sato 2009,http://adsabs.harvard.edu/abs/2009ApJ...703..671S,Sato 2009,http://adsabs.harvard.edu/abs/2009ApJ...703..671S
+HD 30562 b,1.33254,2.34083,1157,0.76,81,2450131.5,33.7,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F,Fischer 2009,http://adsabs.harvard.edu/abs/2009ApJ...703.1545F
+epsilon CrB b,6.04937,1.23696,417.9,0.11,133.1,2451235.3,129.4,Lee 2012,http://adsabs.harvard.edu/abs/2012A%26A...546A...5L,Lee 2012,http://adsabs.harvard.edu/abs/2012A%26A...546A...5L
+omicron UMa b,4.09607,3.94973,1630,0.13,58,2453400,33.6,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S,Sato 2012,http://adsabs.harvard.edu/abs/2012PASJ...64..135S
+HD 208897 b,1.39736,1.05277,352.7,0.07,167,2455036,34.7,Yilmaz 2017,http://adsabs.harvard.edu/abs/2017A%26A...608A..14Y,Yilmaz 2017,http://adsabs.harvard.edu/abs/2017A%26A...608A..14Y
+HD 11755 b,6.55071,1.08513,433.7,0.19,155.3,2457018.2,191.3,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L,Lee 2015,http://adsabs.harvard.edu/abs/2015A%26A...584A..79L
+HD 102195 b,0.452799,0.0479747,4.113775,0,0,2453895.96,63,Melo 2007,http://adsabs.harvard.edu/abs/2007A%26A...467..721M,Ge 2006,http://adsabs.harvard.edu/abs/2006ApJ...648..683G
+HD 75289 b,0.46004,0.047858,3.509267,0.034,141,2450830.34,54.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Udry 2000,http://adsabs.harvard.edu/abs/2000A%26A...356..590U
+HD 185269 b,0.954212,0.0765701,6.8378503,0.295952,171.817,2453154.089,90.692,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...652.1724J,Johnson 2006,http://adsabs.harvard.edu/abs/2006ApJ...652.1724J
+BD -10 3166 b,0.429903,0.0437823,3.48777,0.019,334,2451171.22,60.9,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Butler 2000,http://adsabs.harvard.edu/abs/2000ApJ...545..504B
+HD 190360 b,1.53512,3.97285,2915.0369,0.313105,12.9274,2453541.662,23.2383,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Naef 2003,http://adsabs.harvard.edu/abs/2003A%26A...410.1051N
+HAT-P-13 c,14.2696,1.22574,446.27,0.6616,175.29,2455335.448,440,Winn 2010,http://adsabs.harvard.edu/abs/2010ApJ...718..575W,Bakos 2009,http://adsabs.harvard.edu/abs/2009ApJ...707..446B
+GJ 317 b,1.26045,0.953099,692,0.11,342,2451550.9925,75.2,Anglada-Escude 2012,http://adsabs.harvard.edu/abs/2012ApJ...746...37A,Johnson 2007,http://adsabs.harvard.edu/abs/2007ApJ...670..833J
+HD 37605 b,2.80174,0.283337,55.01307,0.6767,220.86,2453378.241,202.99,Wang 2012,http://adsabs.harvard.edu/abs/2012ApJ...761...46W,Cochran 2004,http://adsabs.harvard.edu/abs/2004ApJ...611L.133C
+HD 125612 c,0.0580667,0.0522124,4.15474,0.27499,103.511,2454420.17287,7.165,Lo Curto 2010 (corrected: priv. comm.),http://adsabs.harvard.edu/abs/2010A%26A...512A..48L,Lo Curto 2010,http://adsabs.harvard.edu/abs/2010A%26A...512A..48L
+GJ 581 b,0.0499019,0.0406125,5.36865,0.031,251,2454753.95,12.65,Forveille 2011,http://xxx.lanl.gov/abs/1109.2505,Bonfils 2005,http://adsabs.harvard.edu/abs/2005A%26A...443L..15B
+HD 75784 b,5.6,6.45931,5040,0.36,301,2459655,57,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G
+HD 102117 b,0.169756,0.152077,20.8133,0.121,279,2450942.2,11.98,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Tinney 2005,http://adsabs.harvard.edu/abs/2005ApJ...623.1171T
+HD 189733 b,1.14039,0.0309953,2.21857567,0,90,2454279.436714,205,Bouchy 2005,http://adsabs.harvard.edu/abs/2005A%26A...444L..15B,Bouchy 2005,http://adsabs.harvard.edu/abs/2005A%26A...444L..15B
+HD 108863 b,2.76572,1.45325,443.4,0,177,2455516,45.2,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 10442 b,2.1,2.33538,1043,0.11,198,2457062,31.5,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G,Giguere 2015,http://adsabs.harvard.edu/abs/2015ApJ...799...89G
+HD 1502 b,2.9072,1.27206,431.8,0.101,219,2455227,60.7,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J,Johnson 2011,http://adsabs.harvard.edu/abs/2011ApJS..197...26J
+HD 142022 b,4.46762,2.93163,1928,0.53,170,2450941,92,Eggenberger 2006,http://adsabs.harvard.edu/abs/2006A%26A...447.1159E,Eggenberger 2006,http://adsabs.harvard.edu/abs/2006A%26A...447.1159E
+GJ 3293 c,0.0668751,0.361757,122.61917047,0.117135,314.76,2455933.5989195937,4.91142,Astudillo-Defru 2015 (corrected; private communication),http://adsabs.harvard.edu/abs/2015A%26A...575A.119A,Astudillo-Defru 2015,http://adsabs.harvard.edu/abs/2015A%26A...575A.119A
+HD 212771 b,2.70016,1.16471,373.3,0.111,55,2454947,58.2,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J,Johnson 2010,http://adsabs.harvard.edu/abs/2010PASP..122..701J
+HD 109271 b,0.0546827,0.0785237,7.8543,0.25,-64,2455719.1,5.6,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L,Lo Curto 2013,http://adsabs.harvard.edu/abs/2013A%26A...551A..59L
+HD 134987 b,1.56347,0.807929,258.18,0.233,352.7,2450071,49.5,Jones 2010,http://adsabs.harvard.edu/abs/2010MNRAS.403.1703J,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+HD 187123 c,1.9422,4.83146,3805.6705,0.252086,242.973,2453580.036,25.4708,Wright 2009,http://adsabs.harvard.edu/abs/2007ApJ...657..533W,Vogt 2000,http://adsabs.harvard.edu/abs/2000ApJ...536..902V
+HD 101930 b,0.299187,0.302019,70.459999,0.11,251,2453145,18.1,Lovis 2005,http://adsabs.harvard.edu/abs/2005A%26A...437.1121L,Lovis 2005,http://adsabs.harvard.edu/abs/2005A%26A...437.1121L
+HD 131664 b,18.3282,3.17098,1951,0.638,149.7,2452060,359.5,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M,Moutou 2009,http://adsabs.harvard.edu/abs/2009A%26A...496..513M
+HIP 57050 b,0.297735,0.163506,41.397,0.314,238.1,2451544.1,37.8,Haghighipour 2010,http://adsabs.harvard.edu/abs/2010ApJ...715..271H,Haghighipour 2010,http://adsabs.harvard.edu/abs/2010ApJ...715..271H
+GJ 687 b,0.0590189,0.165144,38.14,0.04,359.43,2450579.11,6.43,Burt 2014,http://adsabs.harvard.edu/abs/2014ApJ...789..114B,Burt 2014,http://adsabs.harvard.edu/abs/2014ApJ...789..114B
+BD +49 828 b,1.57419,4.24519,2590,0.35,170,2455470,18.8,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015ApJ...803....1N,Niedzielski 2015,http://adsabs.harvard.edu/abs/2015ApJ...803....1N
+HD 147018 c,6.59355,1.92274,1008,0.133,226.9,2455301,141.2,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S,Segransan 2010,http://adsabs.harvard.edu/abs/2010A%26A...511A..45S
+HD 92788 b,3.56392,0.951142,325.81,0.334,276.4,2450759.2,106,Butler 2006,http://adsabs.harvard.edu/abs/2006ApJ...646..505B,Fischer 2001,http://adsabs.harvard.edu/abs/2001ApJ...551.1107F
+HD 114613 b,0.506039,5.3109,3827,0.25,244,2455550.3,5.52,Wittenmyer 2014,http://adsabs.harvard.edu/abs/2014arXiv1401.5525W,Wittenmyer 2014,http://adsabs.harvard.edu/abs/2014arXiv1401.5525W
+HD 154857 b,2.24797,1.2912,408.6,0.46,57,2453572.5,48.3,Wittenmyer 2007,http://adsabs.harvard.edu/abs/2014arXiv1401.5525W,McCarthy 2004,http://adsabs.harvard.edu/abs/2004ApJ...617..575M
+GJ 628 d,0.0243824,0.470207,217.186363,0.552796,260.871,2456172.53309055,2.23738,Astudillo-Defru 2017 (corrected; private communication),http://adsabs.harvard.edu/abs/2017A%26A...602A..88A,Astudillo-Defru 2017,http://adsabs.harvard.edu/abs/2017A%26A...602A..88A
+HD 163607 b,0.768857,0.359201,75.29,0.73,78.7,2454185,51.1,Giguere 2012,http://adsabs.harvard.edu/abs/2012ApJ...744....4G,Giguere 2012,http://adsabs.harvard.edu/abs/2012ApJ...744....4G
+GJ 3293 d,0.0238786,0.19394,48.13439034,0.116821,250.295,2456008.7522496083,2.39514,Astudillo-Defru 2015 (corrected; private communication),http://adsabs.harvard.edu/abs/2015A%26A...575A.119A,Astudillo-Defru 2015,http://adsabs.harvard.edu/abs/2015A%26A...575A.119A
+HD 19994 b,1.32681,1.30567,466.2,0.266,346,2453757,29.3,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Mayor 2004,http://adsabs.harvard.edu/abs/2004A%26A...415..391M
+HD 85512 b,0.0113953,0.260405,58.43,0.11,178,2455250.015,0.769,Pepe 2011,http://adsabs.harvard.edu/abs/2011A%26A...534A..58P,Pepe 2011,http://adsabs.harvard.edu/abs/2011A%26A...534A..58P
+HD 106252 b,6.95913,2.61147,1531,0.482,292.8,2453397.5,138.8,Wittenmyer 2009,http://adsabs.harvard.edu/abs/2009ApJS..182...97W,Fischer 2002,http://adsabs.harvard.edu/abs/2002PASP..114..529F
+HD 164922 c,0.0412178,0.335039,75.765,0.22,81,,2.22,Fulton 2016,http://adsabs.harvard.edu/abs/2016ApJ...830...46F,Fulton 2016,http://adsabs.harvard.edu/abs/2016ApJ...830...46F
+18 Del b,10.298,2.58655,993.3,0.08,166.1,2451672,119.4,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S,Sato 2008,http://adsabs.harvard.edu/abs/2008PASJ...60..539S
+HD 171028 b,1.98809,1.31895,550,0.59,304,2454187,60.6,Santos 2011,http://adsabs.harvard.edu/abs/2011A%26A...526A.112S,Santos 2007,http://adsabs.harvard.edu/abs/2007A%26A...474..647S
+BD +15 2940 b,1.11647,0.538316,137.48,0.26,302,2453464,42.7,Nowak 2013,http://adsabs.harvard.edu/abs/2013ApJ...770...53N,Nowak 2013,http://adsabs.harvard.edu/abs/2013ApJ...770...53N
+upsilon And d,4.11582,2.52452,1278.1218,0.267395,269.685,2453937.728,66.6805,Wright 2009,http://adsabs.harvard.edu/abs/2009ApJ...693.1084W,Butler 1999,http://adsabs.harvard.edu/abs/1999ApJ...526..916B
